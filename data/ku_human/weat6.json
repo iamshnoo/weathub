@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "MaleNames",
+        "examples": [
+            "Yûhenna",
+            "Pawlos",
+            "Mike",
+            "Kevin",
+            "Steve",
+            "Greg",
+            "Jeff",
+            "Bill"
+        ]
+    },
+    "targ2": {
+        "category": "FemaleNames",
+        "examples": [
+            "Amy",
+            "Joan",
+            "Lisa",
+            "Sara",
+            "Diana",
+            "Kate",
+            "Ann",
+            "Donna"
+        ]
+    },
+    "attr1": {
+        "category": "Career",
+        "examples": [
+            "kargêr",
+            "birêveberî",
+            "karzan",
+            "dayre",
+            "meaş",
+            "dayre",
+            "kasibî",
+            "pêşveçûnî"
+        ]
+    },
+    "attr2": {
+        "category": "Family",
+        "examples": [
+            "xane",
+            "dewûbav",
+            "zarok",
+            "malbat",
+            "pismam",
+            "zewac",
+            "dîlan",
+            "xizm"
+        ]
+    }
+}

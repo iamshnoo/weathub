@@ -1,0 +1,66 @@
+{
+    "targ1": {
+        "category": "OffensiveWords",
+        "examples": [
+            "siraulo",
+            "tanga",
+            "bobo",
+            "bobo",
+            "talunan",
+            "tanga",
+            "imbecile",
+            "bobo",
+            "basura",
+            "antipatika",
+            "hambog"
+        ]
+    },
+    "targ2": {
+        "category": "RespectfulWords",
+        "examples": [
+            "mabait",
+            "mapagbigay",
+            "matulungin",
+            "palakaibigan",
+            "tapat",
+            "mapagkakatiwalaan",
+            "maawain",
+            "mapagpaubaya",
+            "Loyal",
+            "magalang"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "babae",
+            "babae",
+            "babae",
+            "ate",
+            "siya",
+            "siya",
+            "sa kanya",
+            "anak na babae",
+            "inay",
+            "Tiya",
+            "lola",
+            "nanay"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "lalaki",
+            "lalaki",
+            "lalaki",
+            "kuya",
+            "siya",
+            "siya",
+            "kaniya",
+            "anak",
+            "tatay",
+            "tito",
+            "lolo"
+        ]
+    }
+}

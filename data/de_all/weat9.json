@@ -1,0 +1,68 @@
+{
+    "targ1": {
+        "category": "MentalDisease",
+        "examples": [
+            "traurig",
+            "hoffnungslos",
+            "düster",
+            "tränenreich",
+            "miserabel",
+            "deprimiert",
+            "Depressionen",
+            "Burnout",
+            "Essstörungen",
+            "Abhängigkeitsstörung",
+            "Ängste"
+        ]
+    },
+    "targ2": {
+        "category": "PhysicalDisease",
+        "examples": [
+            "krank",
+            "Erkrankung",
+            "Grippe",
+            "Krankheit",
+            "Virus",
+            "Krebs",
+            "Arthrose",
+            "Asthma",
+            "Koronare Herzkrankheit",
+            "Diabetes menllitus",
+            "Osteoporose"
+        ]
+    },
+    "attr1": {
+        "category": "Temporary",
+        "examples": [
+            "unbeständig",
+            "instabil",
+            "Variable",
+            "flüchtig",
+            "kurzfristig",
+            "knapp",
+            "gelegentlich",
+            "kurz",
+            "bald",
+            "kurzweilig",
+            "zeitweise",
+            "temporär"
+        ]
+    },
+    "attr2": {
+        "category": "Permanent",
+        "examples": [
+            "stabil",
+            "stets",
+            "Konstante",
+            "hartnäckig",
+            "chronisch",
+            "länger",
+            "für immer",
+            "lange",
+            "fest",
+            "gesichert",
+            "unverändert",
+            "treu"
+        ]
+    }
+}

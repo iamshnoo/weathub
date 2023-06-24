@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "EducatedTerms",
+        "examples": [
+            "mezun",
+            "diploma",
+            "Üniversite",
+            "kolej",
+            "diploma",
+            "akademik",
+            "akademisyen",
+            "kariyer",
+            "profesyonel",
+            "akıl"
+        ]
+    },
+    "targ2": {
+        "category": "Non-educatedTerms",
+        "examples": [
+            "hata",
+            "bırakmak",
+            "cehalet",
+            "cehalet",
+            "iyileştirici",
+            "okuldan kaçan",
+            "dersten kalmak",
+            "gözaltı",
+            "okuldan kaçma",
+            "cahil"
+        ]
+    },
+    "attr1": {
+        "category": "HigherStatusWords",
+        "examples": [
+            "aristokrat",
+            "seçkinler",
+            "lüks",
+            "prestijli",
+            "ayrıcalıklı",
+            "komplike",
+            "kültürlü",
+            "rafine",
+            "zengin",
+            "lüks"
+        ]
+    },
+    "attr2": {
+        "category": "LowerStatusWords",
+        "examples": [
+            "fakir",
+            "işçi sınıfı",
+            "Mavi yakalı",
+            "aşağılık",
+            "dezavantajlı",
+            "yoksul",
+            "imtiyazsız",
+            "yoksun",
+            "mücadele etme",
+            "marjinal"
+        ]
+    }
+}

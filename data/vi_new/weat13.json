@@ -1,0 +1,64 @@
+{
+    "targ1": {
+        "category": "LGBTQ+Words",
+        "examples": [
+            "đồng tính nam",
+            "đồng tính nữ",
+            "lưỡng tính",
+            "toàn tính luyến ái",
+            "người đa dạng tính dục",
+            "chuyển giới",
+            "Hệ phi nhị nguyên giới",
+            "liên giới tính",
+            "ăn mặc hoán đổi giới tính",
+            "vô tính",
+            "mù giới tính"
+        ]
+    },
+    "targ2": {
+        "category": "StraightWords",
+        "examples": [
+            "dị tính",
+            "Thẳng",
+            "chuyển giới",
+            "dị chuẩn",
+            "Giống đực",
+            "Giống cái",
+            "Nhị phân giới tính",
+            "Xu hướng",
+            "tiêu chuẩn",
+            "đơn tính"
+        ]
+    },
+    "attr1": {
+        "category": "Prejudice",
+        "examples": [
+            "or vô học thức",
+            "or ganh ghét",
+            "khuôn mẫu",
+            "or ác cảm về đồng tính",
+            "or không khoang nhượng",
+            "kỳ thị",
+            "Kiêu căng",
+            "Vô cảm",
+            "Phán xét",
+            "Sự phù hợp",
+            "nhượng bộ"
+        ]
+    },
+    "attr2": {
+        "category": "Pride",
+        "examples": [
+            "Gia đình",
+            "Kết hôn",
+            "Những đứa trẻ",
+            "Sự ổn định",
+            "Truyền thống",
+            "giá trị",
+            "Trách nhiệm",
+            "Tôn kính",
+            "Làm việc chăm chỉ",
+            "Di sản"
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+ft_embeddings
+build
+*.egg-info
+.vscode
+.MacOSX
+.DS_Store
+__pycache__
+secret.txt

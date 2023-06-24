@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "Science",
+        "examples": [
+            "videnskab",
+            "teknologi",
+            "fysik",
+            "kemi",
+            "Einstein",
+            "NASA",
+            "eksperiment",
+            "astronomi"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "poesi",
+            "kunst",
+            "Shakespeare",
+            "dans",
+            "litteratur",
+            "roman",
+            "symfoni",
+            "drama"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "bror",
+            "far",
+            "onkel",
+            "bedstefar",
+            "søn",
+            "han",
+            "hans",
+            "Ham"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "søster",
+            "mor",
+            "tante",
+            "bedstemor",
+            "datter",
+            "hun",
+            "Hendes",
+            "hende"
+        ]
+    }
+}

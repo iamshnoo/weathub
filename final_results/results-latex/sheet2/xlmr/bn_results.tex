@@ -1,0 +1,22 @@
+\begin{sidewaystable}[htb]
+    \centering
+    \caption{sheet2 xlmr bn results}
+    \label{appendix_tab:sheet2_xlmr_bn_results}
+    \small
+    \begin{tabular}{@{}cccccccc@{}}
+        \toprule
+        Type & DataSource & Method & weat11 & weat12 & weat13 & weat14 & weat15 \\
+        \midrule
+        contextual & NEW\_HT & xlmr-CLS & 0.117 (0.400) & -0.097 (0.582) & -0.328 (0.759) & -0.621 (0.915) & 0.204 (0.358) \\
+        contextual & NEW\_HT & xlmr-last-hidden-subword-first & 0.021 (0.481) & 0.038 (0.466) & 0.139 (0.381) & 0.621 (0.084) & -0.662 (0.929) \\
+        contextual & NEW\_HT & xlmr-last-hidden-subword-avg & -0.052 (0.545) & -0.244 (0.699) & -0.285 (0.714) & 0.541 (0.116) & -0.782 (0.959) \\
+        contextual & NEW\_HT & xlmr-2nd-last-layer-subword-first & -0.005 (0.506) & 0.109 (0.418) & 0.282 (0.265) & -0.672 (0.931) & -0.502 (0.853) \\
+        contextual & NEW\_HT & xlmr-2nd-last-layer-subword-avg & -0.058 (0.548) & -0.300 (0.738) & -0.157 (0.582) & -0.751 (0.953) & -0.725 (0.946) \\
+        contextual & NEW\_HT & xlmr-avg-all-hidden-subword-first & -0.012 (0.506) & 0.050 (0.458) & 0.546 (0.120) & -0.669 (0.930) & -0.341 (0.730) \\
+        contextual & NEW\_HT & xlmr-avg-all-hidden-subword-avg & 0.040 (0.463) & -0.460 (0.837) & -0.155 (0.568) & -0.388 (0.800) & -0.504 (0.864) \\
+        static & NEW\_HT & fasttext & 0.015 (0.487) & 0.226 (0.313) & 0.257 (0.287) & 1.034 (0.008) & 0.973 (0.012) \\
+        static & NEW\_HT & xlmr-layer-0-subword-first & 0.704 (0.060) & 0.743 (0.047) & 0.740 (0.051) & -0.841 (0.971) & 0.509 (0.174) \\
+        static & NEW\_HT & xlmr-layer-0-subword-avg & -0.754 (0.953) & 0.905 (0.020) & 0.005 (0.494) & -0.057 (0.548) & -0.129 (0.611) \\
+        \bottomrule
+    \end{tabular}
+\end{sidewaystable}

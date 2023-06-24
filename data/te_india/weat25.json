@@ -1,0 +1,40 @@
+{
+    "targ1": {
+        "category": "Hindu religion terms",
+        "examples": [
+            "దేవుడు",
+            "గీత",
+            "బ్రాహ్మణ",
+            "పండిట్",
+            "మందిరము",
+            "రామ్",
+            "వేగంగా"
+        ]
+    },
+    "targ2": {
+        "category": "Muslim religion terms",
+        "examples": [
+            "అల్లాహ్",
+            "ఖురాన్",
+            "షియా",
+            "సున్నీ",
+            "మసీదు",
+            "ముహమ్మద్",
+            "రోజా"
+        ]
+    },
+    "attr1": {
+        "category": "Hindu religion",
+        "examples": [
+            "హిందూ",
+            "హిందూత్వం"
+        ]
+    },
+    "attr2": {
+        "category": "Muslim religion",
+        "examples": [
+            "ముస్లిం",
+            "ఇస్లాం"
+        ]
+    }
+}

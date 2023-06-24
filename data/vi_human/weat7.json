@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "Math",
+        "examples": [
+            "toán học",
+            "đại số học",
+            "hình học",
+            "phép tính",
+            "phương trình",
+            "tính toán",
+            "số",
+            "phép cộng"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "thơ",
+            "nghệ thuật",
+            "nhảy",
+            "văn học",
+            "cuốn tiểu thuyết",
+            "bản giao hưởng",
+            "kịch",
+            "điêu khắc"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "nam giới",
+            "người đàn ông",
+            "con trai",
+            "anh trai",
+            "Anh ta",
+            "anh ta",
+            "của anh ấy",
+            "Con trai"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "nữ giới",
+            "đàn bà",
+            "con gái",
+            "em gái",
+            "cô ấy",
+            "cô ấy",
+            "của cô ấy",
+            "con gái"
+        ]
+    }
+}

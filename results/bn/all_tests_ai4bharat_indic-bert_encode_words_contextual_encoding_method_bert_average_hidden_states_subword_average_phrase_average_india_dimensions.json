@@ -1,0 +1,112 @@
+[
+    {
+        "weat_effect_size": "-0.206",
+        "weat_p_value": "0.641",
+        "weat_effect_size_confidence_interval_lower": "-0.281",
+        "weat_effect_size_confidence_interval_upper": "-0.267",
+        "weat_test_statistic": "-0.010",
+        "weat_test_statistic_confidence_interval_lowerr": "-0.009",
+        "weat_test_statistic_confidence_interval_upper": "-0.009",
+        "experiment_id": "weat16_lang_bn_ai4bharat/indic-bert_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_india_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.000",
+        "weat_p_value": "0.497",
+        "weat_effect_size_confidence_interval_lower": "0.001",
+        "weat_effect_size_confidence_interval_upper": "0.018",
+        "weat_test_statistic": "0.000",
+        "weat_test_statistic_confidence_interval_lowerr": "0.000",
+        "weat_test_statistic_confidence_interval_upper": "0.000",
+        "experiment_id": "weat17_lang_bn_ai4bharat/indic-bert_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_india_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.000",
+        "weat_p_value": "0.497",
+        "weat_effect_size_confidence_interval_lower": "-0.019",
+        "weat_effect_size_confidence_interval_upper": "-0.006",
+        "weat_test_statistic": "0.000",
+        "weat_test_statistic_confidence_interval_lowerr": "-0.001",
+        "weat_test_statistic_confidence_interval_upper": "-0.000",
+        "experiment_id": "weat18_lang_bn_ai4bharat/indic-bert_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_india_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "-0.336",
+        "weat_p_value": "0.755",
+        "weat_effect_size_confidence_interval_lower": "-0.355",
+        "weat_effect_size_confidence_interval_upper": "-0.345",
+        "weat_test_statistic": "-0.014",
+        "weat_test_statistic_confidence_interval_lowerr": "-0.011",
+        "weat_test_statistic_confidence_interval_upper": "-0.011",
+        "experiment_id": "weat19_lang_bn_ai4bharat/indic-bert_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_india_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "-0.042",
+        "weat_p_value": "0.533",
+        "weat_effect_size_confidence_interval_lower": "-0.035",
+        "weat_effect_size_confidence_interval_upper": "-0.023",
+        "weat_test_statistic": "-0.002",
+        "weat_test_statistic_confidence_interval_lowerr": "-0.001",
+        "weat_test_statistic_confidence_interval_upper": "-0.001",
+        "experiment_id": "weat20_lang_bn_ai4bharat/indic-bert_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_india_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "-0.213",
+        "weat_p_value": "0.645",
+        "weat_effect_size_confidence_interval_lower": "-0.172",
+        "weat_effect_size_confidence_interval_upper": "-0.160",
+        "weat_test_statistic": "-0.004",
+        "weat_test_statistic_confidence_interval_lowerr": "-0.003",
+        "weat_test_statistic_confidence_interval_upper": "-0.003",
+        "experiment_id": "weat21_lang_bn_ai4bharat/indic-bert_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_india_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.029",
+        "weat_p_value": "0.478",
+        "weat_effect_size_confidence_interval_lower": "-0.067",
+        "weat_effect_size_confidence_interval_upper": "-0.046",
+        "weat_test_statistic": "0.001",
+        "weat_test_statistic_confidence_interval_lowerr": "-0.001",
+        "weat_test_statistic_confidence_interval_upper": "-0.001",
+        "experiment_id": "weat22_lang_bn_ai4bharat/indic-bert_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_india_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "-0.559",
+        "weat_p_value": "0.823",
+        "weat_effect_size_confidence_interval_lower": "-0.332",
+        "weat_effect_size_confidence_interval_upper": "-0.261",
+        "weat_test_statistic": "-0.004",
+        "weat_test_statistic_confidence_interval_lowerr": "-0.004",
+        "weat_test_statistic_confidence_interval_upper": "-0.003",
+        "experiment_id": "weat23_lang_bn_ai4bharat/indic-bert_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_india_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "1.031",
+        "weat_p_value": "0.027",
+        "weat_effect_size_confidence_interval_lower": "1.023",
+        "weat_effect_size_confidence_interval_upper": "1.035",
+        "weat_test_statistic": "0.049",
+        "weat_test_statistic_confidence_interval_lowerr": "0.041",
+        "weat_test_statistic_confidence_interval_upper": "0.041",
+        "experiment_id": "weat24_lang_bn_ai4bharat/indic-bert_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_india_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "-0.462",
+        "weat_p_value": "0.827",
+        "weat_effect_size_confidence_interval_lower": "-0.555",
+        "weat_effect_size_confidence_interval_upper": "-0.541",
+        "weat_test_statistic": "-0.052",
+        "weat_test_statistic_confidence_interval_lowerr": "-0.055",
+        "weat_test_statistic_confidence_interval_upper": "-0.053",
+        "experiment_id": "weat25_lang_bn_ai4bharat/indic-bert_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_india_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.333",
+        "weat_p_value": "0.286",
+        "weat_effect_size_confidence_interval_lower": "0.238",
+        "weat_effect_size_confidence_interval_upper": "0.252",
+        "weat_test_statistic": "0.005",
+        "weat_test_statistic_confidence_interval_lowerr": "0.005",
+        "weat_test_statistic_confidence_interval_upper": "0.006",
+        "experiment_id": "weat26_lang_bn_ai4bharat/indic-bert_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_india_dimensions_seed_42_partitions_100000_normalized"
+    }
+]

@@ -1,0 +1,58 @@
+{
+    "targ1": {
+        "category": "MentalDisease",
+        "examples": [
+            "üzgün",
+            "Umutsuz",
+            "kasvetli",
+            "ağlamaklı",
+            "acınası",
+            "bunalımlı",
+            "şizofren",
+            "bunalımlı",
+            "üzgün",
+            "Umutsuz",
+            "deli"
+        ]
+    },
+    "targ2": {
+        "category": "PhysicalDisease",
+        "examples": [
+            "hasta",
+            "hastalık",
+            "grip",
+            "hastalık",
+            "virüs",
+            "kanser",
+            "sakat",
+            "hasta",
+            "kanser",
+            "hastalık",
+            "hastalık"
+        ]
+    },
+    "attr1": {
+        "category": "Temporary",
+        "examples": [
+            "geçici",
+            "dengesiz",
+            "değişken",
+            "kısa süren",
+            "kısa vadeli",
+            "özet",
+            "ara sıra"
+        ]
+    },
+    "attr2": {
+        "category": "Permanent",
+        "examples": [
+            "stabil",
+            "Her zaman",
+            "devamlı",
+            "kalıcı",
+            "kronik",
+            "uzamış",
+            "sonsuza kadar"
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "Science",
+        "examples": [
+            "bilim",
+            "teknoloji",
+            "fizik",
+            "kimya",
+            "Einstein",
+            "NASA",
+            "deney",
+            "astronomi"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "şiir",
+            "sanat",
+            "Shakespeare",
+            "dans",
+            "edebiyat",
+            "roman",
+            "senfoni",
+            "drama"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "Erkek kardeş",
+            "baba",
+            "amca",
+            "Büyük baba",
+            "oğul",
+            "O",
+            "onun",
+            "o"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "kız kardeş",
+            "anne",
+            "hala",
+            "Nene",
+            "kız çocuğu",
+            "o",
+            "onunki",
+            "o"
+        ]
+    }
+}

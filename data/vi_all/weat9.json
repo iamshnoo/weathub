@@ -1,0 +1,51 @@
+{
+    "targ1": {
+        "category": "MentalDisease",
+        "examples": [
+            "buồn",
+            "vô vọng",
+            "ảm đạm",
+            "đầy nước mắt",
+            "khổ sở",
+            "trầm cảm",
+            "cực khổ",
+            "khốn khổ",
+            "đáng thương"
+        ]
+    },
+    "targ2": {
+        "category": "PhysicalDisease",
+        "examples": [
+            "đau ốm",
+            "sự ốm yếu",
+            "cúm",
+            "bệnh",
+            "vi-rút",
+            "bệnh ung thư"
+        ]
+    },
+    "attr1": {
+        "category": "Temporary",
+        "examples": [
+            "vô thường",
+            "không ổn định",
+            "Biến đổi",
+            "thoáng qua",
+            "thời gian ngắn",
+            "ngắn gọn",
+            "thỉnh thoảng"
+        ]
+    },
+    "attr2": {
+        "category": "Permanent",
+        "examples": [
+            "ổn định",
+            "luôn luôn",
+            "không thay đổi",
+            "kiên trì",
+            "mãn tính",
+            "kéo dài",
+            "mãi mãi"
+        ]
+    }
+}

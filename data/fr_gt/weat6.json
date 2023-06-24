@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "MaleNames",
+        "examples": [
+            "John",
+            "Paul",
+            "Mike",
+            "Kévin",
+            "Steve",
+            "Greg",
+            "Jef",
+            "Facture"
+        ]
+    },
+    "targ2": {
+        "category": "FemaleNames",
+        "examples": [
+            "Amy",
+            "Jeanne",
+            "Lisa",
+            "Sarah",
+            "Diane",
+            "Kate",
+            "Anne",
+            "Donna"
+        ]
+    },
+    "attr1": {
+        "category": "Career",
+        "examples": [
+            "exécutif",
+            "gestion",
+            "professionnel",
+            "société",
+            "salaire",
+            "bureau",
+            "entreprise",
+            "carrière"
+        ]
+    },
+    "attr2": {
+        "category": "Family",
+        "examples": [
+            "maison",
+            "parents",
+            "enfants",
+            "famille",
+            "les cousins",
+            "mariage",
+            "mariage",
+            "parents"
+        ]
+    }
+}

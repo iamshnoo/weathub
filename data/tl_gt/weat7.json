@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "Math",
+        "examples": [
+            "math",
+            "algebra",
+            "geometry",
+            "calculus",
+            "mga equation",
+            "computation",
+            "numero",
+            "dagdag"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "mga tula",
+            "sining",
+            "sayaw",
+            "panitikan",
+            "nobela",
+            "symphony",
+            "drama",
+            "eskultura"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "lalaki",
+            "lalaki",
+            "lalaki",
+            "kapatid",
+            "siya",
+            "siya",
+            "kaniya",
+            "anak"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "babae",
+            "babae",
+            "babae",
+            "ate",
+            "siya",
+            "siya",
+            "sa kanya",
+            "anak na babae"
+        ]
+    }
+}

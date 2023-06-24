@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "MaleNames",
+        "examples": [
+            "Louis",
+            "Gabriel",
+            "Alexandre",
+            "Hugo",
+            "Thomas",
+            "Pierre",
+            "Lucas",
+            "Mathis"
+        ]
+    },
+    "targ2": {
+        "category": "FemaleNames",
+        "examples": [
+            "Emma",
+            "Camille",
+            "Juliette",
+            "Sarah",
+            "Clara",
+            "Alice",
+            "Chloé",
+            "Charlotte"
+        ]
+    },
+    "attr1": {
+        "category": "Career",
+        "examples": [
+            "exécutif",
+            "gestion",
+            "professionnel",
+            "société",
+            "salaire",
+            "bureau",
+            "entreprise",
+            "carrière"
+        ]
+    },
+    "attr2": {
+        "category": "Family",
+        "examples": [
+            "maison",
+            "parents",
+            "enfants",
+            "famille",
+            "les cousins",
+            "mariage",
+            "mariage",
+            "famille"
+        ]
+    }
+}

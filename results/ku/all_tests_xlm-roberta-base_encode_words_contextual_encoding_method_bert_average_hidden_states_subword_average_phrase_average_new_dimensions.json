@@ -1,0 +1,52 @@
+[
+    {
+        "weat_effect_size": "-0.361",
+        "weat_p_value": "0.784",
+        "weat_effect_size_confidence_interval_lower": "-0.183",
+        "weat_effect_size_confidence_interval_upper": "-0.170",
+        "weat_test_statistic": "-0.001",
+        "weat_test_statistic_confidence_interval_lowerr": "-0.001",
+        "weat_test_statistic_confidence_interval_upper": "-0.001",
+        "experiment_id": "weat11_lang_ku_xlm-roberta-base_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_new_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.531",
+        "weat_p_value": "0.127",
+        "weat_effect_size_confidence_interval_lower": "0.454",
+        "weat_effect_size_confidence_interval_upper": "0.468",
+        "weat_test_statistic": "0.002",
+        "weat_test_statistic_confidence_interval_lowerr": "0.002",
+        "weat_test_statistic_confidence_interval_upper": "0.002",
+        "experiment_id": "weat12_lang_ku_xlm-roberta-base_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_new_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.791",
+        "weat_p_value": "0.039",
+        "weat_effect_size_confidence_interval_lower": "0.525",
+        "weat_effect_size_confidence_interval_upper": "0.541",
+        "weat_test_statistic": "0.003",
+        "weat_test_statistic_confidence_interval_lowerr": "0.003",
+        "weat_test_statistic_confidence_interval_upper": "0.003",
+        "experiment_id": "weat13_lang_ku_xlm-roberta-base_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_new_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "-0.212",
+        "weat_p_value": "0.672",
+        "weat_effect_size_confidence_interval_lower": "-0.199",
+        "weat_effect_size_confidence_interval_upper": "-0.186",
+        "weat_test_statistic": "-0.001",
+        "weat_test_statistic_confidence_interval_lowerr": "-0.001",
+        "weat_test_statistic_confidence_interval_upper": "-0.001",
+        "experiment_id": "weat14_lang_ku_xlm-roberta-base_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_new_dimensions_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "-0.144",
+        "weat_p_value": "0.627",
+        "weat_effect_size_confidence_interval_lower": "-0.053",
+        "weat_effect_size_confidence_interval_upper": "-0.039",
+        "weat_test_statistic": "-0.000",
+        "weat_test_statistic_confidence_interval_lowerr": "-0.000",
+        "weat_test_statistic_confidence_interval_upper": "-0.000",
+        "experiment_id": "weat15_lang_ku_xlm-roberta-base_encode_words_contextual_encoding_method_bert_average_hidden_states_subword_average_phrase_average_new_dimensions_seed_42_partitions_100000_normalized"
+    }
+]

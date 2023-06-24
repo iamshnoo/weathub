@@ -1,0 +1,48 @@
+{
+    "targ1": {
+        "category": "MentalDisease",
+        "examples": [
+            "伤心",
+            "绝望",
+            "阴沉",
+            "令人伤心的",
+            "悲惨的",
+            "郁闷"
+        ]
+    },
+    "targ2": {
+        "category": "PhysicalDisease",
+        "examples": [
+            "生病的",
+            "疾病",
+            "流感",
+            "疾病",
+            "病毒",
+            "癌症"
+        ]
+    },
+    "attr1": {
+        "category": "Temporary",
+        "examples": [
+            "暂时的",
+            "不稳定",
+            "多变的",
+            "稍纵即逝",
+            "短期",
+            "简短的",
+            "偶然"
+        ]
+    },
+    "attr2": {
+        "category": "Permanent",
+        "examples": [
+            "稳定的",
+            "总是",
+            "持续的",
+            "执着的",
+            "慢性的",
+            "延长",
+            "永远"
+        ]
+    }
+}

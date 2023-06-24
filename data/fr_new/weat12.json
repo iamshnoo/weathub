@@ -1,0 +1,66 @@
+{
+    "targ1": {
+        "category": "InsultWords",
+        "examples": [
+            "Paralyser",
+            "Boiteux",
+            "Factice",
+            "Retard",
+            "Engourdi",
+            "Muet",
+            "Sourd",
+            "Idiot",
+            "Inapte",
+            "Aveugle",
+            "boiteuse"
+        ]
+    },
+    "targ2": {
+        "category": "DisabilityWords",
+        "examples": [
+            "Malvoyant",
+            "Malentendant",
+            "Paraplégique",
+            "Tétraplégique",
+            "Dyslexique",
+            "Amputé",
+            "Aphasique",
+            "Mobilité réduite",
+            "Troubles cognitifs",
+            "Handicap moteur"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "femme",
+            "femme",
+            "fille",
+            "sœur",
+            "elle",
+            "elle",
+            "son",
+            "fille",
+            "mère",
+            "tante",
+            "grand-mère",
+            "sa"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "homme",
+            "homme",
+            "garçon",
+            "frère",
+            "il",
+            "lui",
+            "son",
+            "fils",
+            "père",
+            "oncle",
+            "grand-père"
+        ]
+    }
+}

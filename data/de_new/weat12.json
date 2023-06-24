@@ -1,0 +1,66 @@
+{
+    "targ1": {
+        "category": "InsultWords",
+        "examples": [
+            "Krüppel",
+            "Lahm",
+            "Schnuller",
+            "Verzögern",
+            "Numbschädel",
+            "Stumm",
+            "Taub",
+            "Stumm",
+            "Untauglich",
+            "Blind"
+        ]
+    },
+    "targ2": {
+        "category": "DisabilityWords",
+        "examples": [
+            "Sehbehindert",
+            "Hörgeschädigt",
+            "Paraplegiker",
+            "Tetraplegiker",
+            "Legastheniker",
+            "Amputierte",
+            "Aphasisch",
+            "Beeinträchtige Mobilität",
+            "Kognitiv beeinträchtigt",
+            "Motorisch beeinträchtigt"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "weiblich",
+            "Frau",
+            "Mädchen",
+            "Schwester",
+            "sie",
+            "ihr",
+            "ihres",
+            "Tochter",
+            "Mutter",
+            "Tante",
+            "Oma",
+            "Cousine"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "männlich",
+            "Mann",
+            "Junge",
+            "Bruder",
+            "Er",
+            "ihn",
+            "sein",
+            "Sohn",
+            "Vater",
+            "Onkel",
+            "Großvater",
+            "Cousin"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "targ1": {
+        "category": "EducatedTerms",
+        "examples": [
+            "laureato",
+            "diploma",
+            "università",
+            "università",
+            "laurea",
+            "accademico",
+            "studente",
+            "carriera",
+            "professionale",
+            "intelletto"
+        ]
+    },
+    "targ2": {
+        "category": "Non-educatedTerms",
+        "examples": [
+            "fallire",
+            "abbandonare la scuola",
+            "ignoranza",
+            "analfabetismo",
+            "rimedio",
+            "assente ingiustificato",
+            "bocciato",
+            "rimprovero",
+            "assenteismo",
+            "analfabeta",
+            "bocciata"
+        ]
+    },
+    "attr1": {
+        "category": "HigherStatusWords",
+        "examples": [
+            "aristocratico",
+            "élite",
+            "elegante",
+            "prestigioso",
+            "privilegiato",
+            "sofisticato",
+            "colto",
+            "raffinato",
+            "ricco",
+            "lussuoso",
+            "di lusso"
+        ]
+    },
+    "attr2": {
+        "category": "LowerStatusWords",
+        "examples": [
+            "impoverito",
+            "classe operaia",
+            "operaio",
+            "umile",
+            "svantaggiato",
+            "indigente",
+            "svantaggiato",
+            "privato",
+            "lottando",
+            "emarginato",
+            "servile",
+            "sotto-privilegiato",
+            "diseredato",
+            "in difficoltà"
+        ]
+    }
+}

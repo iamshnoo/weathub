@@ -1,0 +1,70 @@
+{
+    "targ1": {
+        "category": "ImmigrantTerms",
+        "examples": [
+            "straniero",
+            "straniero",
+            "straniero",
+            "immigrato",
+            "rifugiato",
+            "espatriato",
+            "migrante",
+            "non cittadino",
+            "deporatare",
+            "non documentato",
+            "estraneo",
+            "alieno",
+            "profugo",
+            "senza documenti"
+        ]
+    },
+    "targ2": {
+        "category": "Non-immigrantTerms",
+        "examples": [
+            "nativo",
+            "cittadino",
+            "locale",
+            "residente",
+            "nato",
+            "indigeno",
+            "colono",
+            "stabilito",
+            "tradizionale",
+            "abitante"
+        ]
+    },
+    "attr1": {
+        "category": "DisrespectfulWords",
+        "examples": [
+            "pigro",
+            "non istruito",
+            "non qualificato",
+            "penale",
+            "povero",
+            "improduttivo",
+            "avido",
+            "opportunista",
+            "illegale",
+            "indesiderabile",
+            "inesperto",
+            "criminale"
+        ]
+    },
+    "attr2": {
+        "category": "RespectfulWords2",
+        "examples": [
+            "compiuto",
+            "laborioso",
+            "resiliente",
+            "pieno di risorse",
+            "coraggioso",
+            "ambizioso",
+            "compassionevole",
+            "talentuoso",
+            "abile",
+            "dedicato",
+            "ingegnoso",
+            "qualificato"
+        ]
+    }
+}

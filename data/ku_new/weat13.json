@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "LGBTQ+Words",
+        "examples": [
+            "homoseksûel",
+            "lezbiyen",
+            "biseksuel",
+            "panseksuel",
+            "queer",
+            "transgender",
+            "nebinary",
+            "intersex",
+            "xwêrvekişandin",
+            "asexual"
+        ]
+    },
+    "targ2": {
+        "category": "StraightWords",
+        "examples": [
+            "heteroseksuel",
+            "rast",
+            "Cisgender",
+            "Heteronormative",
+            "nêr",
+            "mêtî",
+            "Zayendî Binary",
+            "baw",
+            "Normative",
+            "monoseksuel"
+        ]
+    },
+    "attr1": {
+        "category": "Prejudice",
+        "examples": [
+            "nezanî",
+            "kîn",
+            "Stereotypes",
+            "homofobî",
+            "bêtolerans",
+            "stigma",
+            "pozbilindî",
+            "bêhesiyatî",
+            "darizandin",
+            "Conformity"
+        ]
+    },
+    "attr2": {
+        "category": "Pride",
+        "examples": [
+            "malbat",
+            "mahrî",
+            "zarok",
+            "nehejî",
+            "kevneşopî",
+            "nirxên",
+            "berpisîyarî",
+            "namûs",
+            "karê dijwar",
+            "kelepûr"
+        ]
+    }
+}

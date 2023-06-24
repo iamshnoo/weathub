@@ -1,0 +1,64 @@
+{
+    "targ1": {
+        "category": "LGBTQ+Words",
+        "examples": [
+            "bading",
+            "Tomboy",
+            "Bisexual",
+            "Pansexual",
+            "Queer",
+            "Transgender",
+            "Hindi binary",
+            "Intersex",
+            "I-drag",
+            "Asexual"
+        ]
+    },
+    "targ2": {
+        "category": "StraightWords",
+        "examples": [
+            "Heterosexual",
+            "Diretso",
+            "Cisgender",
+            "Heteronormative",
+            "panlalaki",
+            "pambabae",
+            "Binary ng Kasarian",
+            "Mainstream",
+            "Normatibo",
+            "Monosexual"
+        ]
+    },
+    "attr1": {
+        "category": "Prejudice",
+        "examples": [
+            "Kamangmangan",
+            "Poot",
+            "Mga stereotype",
+            "Homophobia",
+            "Intolerance",
+            "epekto",
+            "Kayabangan",
+            "maramdamin",
+            "Mapanghusga",
+            "Pagkakasundo",
+            "mansta",
+            "dungis"
+        ]
+    },
+    "attr2": {
+        "category": "Pride",
+        "examples": [
+            "Pamilya",
+            "Pag-iisang dibdib",
+            "Kabataan",
+            "Katatagan",
+            "tradisyon",
+            "prinsipyo",
+            "responsibilidad",
+            "karangalan",
+            "Masipag",
+            "Pamana"
+        ]
+    }
+}

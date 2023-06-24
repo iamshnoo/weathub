@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "EducatedTerms",
+        "examples": [
+            "graduated",
+            "diploma",
+            "university",
+            "college",
+            "degree",
+            "academic",
+            "scholar",
+            "career",
+            "professional",
+            "intellect"
+        ]
+    },
+    "targ2": {
+        "category": "Non-educatedTerms",
+        "examples": [
+            "fail",
+            "dropout",
+            "ignorance",
+            "illiteracy",
+            "remedial",
+            "truant",
+            "flunk",
+            "detention",
+            "truancy",
+            "illiterate"
+        ]
+    },
+    "attr1": {
+        "category": "HigherStatusWords",
+        "examples": [
+            "aristocratic",
+            "elite",
+            "posh",
+            "prestigious",
+            "privileged",
+            "sophisticated",
+            "cultured",
+            "refined",
+            "wealthy",
+            "luxurious"
+        ]
+    },
+    "attr2": {
+        "category": "LowerStatusWords",
+        "examples": [
+            "impoverished",
+            "working-class",
+            "blue-collar",
+            "menial",
+            "disadvantaged",
+            "destitute",
+            "underprivileged",
+            "deprived",
+            "struggling",
+            "marginalized"
+        ]
+    }
+}

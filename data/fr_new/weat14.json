@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "EducatedTerms",
+        "examples": [
+            "diplômé",
+            "diplôme",
+            "université",
+            "collège",
+            "degré",
+            "académique",
+            "savant",
+            "carrière",
+            "professionnel",
+            "intellect"
+        ]
+    },
+    "targ2": {
+        "category": "Non-educatedTerms",
+        "examples": [
+            "échouer",
+            "abandonner",
+            "ignorance",
+            "analphabétisme",
+            "correctif",
+            "faire l'école buissonnière",
+            "rater",
+            "retenue",
+            "absentéisme",
+            "analphabète"
+        ]
+    },
+    "attr1": {
+        "category": "HigherStatusWords",
+        "examples": [
+            "aristocratique",
+            "élite",
+            "chic",
+            "prestigieux",
+            "privilégié",
+            "sophistiqué",
+            "cultivé",
+            "raffiné",
+            "riche",
+            "luxueux"
+        ]
+    },
+    "attr2": {
+        "category": "LowerStatusWords",
+        "examples": [
+            "appauvri",
+            "la classe ouvrière",
+            "col bleu",
+            "servile",
+            "défavorisé",
+            "dépourvu",
+            "défavorisé",
+            "privé",
+            "en difficulté",
+            "marginalisé"
+        ]
+    }
+}

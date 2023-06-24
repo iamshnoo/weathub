@@ -1,0 +1,66 @@
+{
+    "targ1": {
+        "category": "OffensiveWords",
+        "examples": [
+            "idiot",
+            "idiot",
+            "Idiot",
+            "stumm",
+            "Verlierer",
+            "täuschen",
+            "schwachsinnig",
+            "dumm",
+            "Müll",
+            "Gör"
+        ]
+    },
+    "targ2": {
+        "category": "RespectfulWords",
+        "examples": [
+            "Art",
+            "Großzügig",
+            "hilfreich",
+            "freundlich",
+            "ehrlich",
+            "vertrauenswürdig",
+            "mitfühlend",
+            "Tolerant",
+            "Treu",
+            "höflich"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "weiblich",
+            "Frau",
+            "Mädchen",
+            "Schwester",
+            "sie",
+            "ihr",
+            "ihres",
+            "Tochter",
+            "Mutter",
+            "Tante",
+            "Oma",
+            "Cousine"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "männlich",
+            "Mann",
+            "Junge",
+            "Bruder",
+            "Er",
+            "ihn",
+            "sein",
+            "Sohn",
+            "Vater",
+            "Onkel",
+            "Großvater",
+            "Cousin"
+        ]
+    }
+}

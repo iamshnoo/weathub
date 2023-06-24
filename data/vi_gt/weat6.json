@@ -1,0 +1,55 @@
+{
+    "targ1": {
+        "category": "MaleNames",
+        "examples": [
+            "Minh",
+            "Anh",
+            "Hiếu",
+            "Thanh",
+            "Duy",
+            "Tuấn",
+            "Hoàng",
+            "Quang"
+        ]
+    },
+    "targ2": {
+        "category": "FemaleNames",
+        "examples": [
+            "Linh",
+            "Thảo",
+            "Ngọc",
+            "An",
+            "Lan",
+            "Hương",
+            "Mai",
+            "Phương",
+            "nan"
+        ]
+    },
+    "attr1": {
+        "category": "Career",
+        "examples": [
+            "điều hành",
+            "sự quản lý",
+            "chuyên nghiệp",
+            "tập đoàn",
+            "lương",
+            "văn phòng",
+            "việc kinh doanh",
+            "sự nghiệp"
+        ]
+    },
+    "attr2": {
+        "category": "Family",
+        "examples": [
+            "trang chủ",
+            "cha mẹ",
+            "những đứa trẻ",
+            "gia đình",
+            "anh chị em họ",
+            "kết hôn",
+            "lễ cưới",
+            "họ hàng"
+        ]
+    }
+}

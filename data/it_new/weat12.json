@@ -1,0 +1,64 @@
+{
+    "targ1": {
+        "category": "InsultWords",
+        "examples": [
+            "storpio",
+            "zoppo",
+            "finto",
+            "ritardato",
+            "insensibile",
+            "muto",
+            "sordo",
+            "stupido",
+            "incapace",
+            "cieco"
+        ]
+    },
+    "targ2": {
+        "category": "DisabilityWords",
+        "examples": [
+            "ipovedente",
+            "ipoudente",
+            "paraplegico",
+            "quadriplegico",
+            "dislessico",
+            "amputato",
+            "afasico",
+            "mobilità ridotta",
+            "congitività ridotta",
+            "motricità ridotta"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "femmina",
+            "donna",
+            "ragazza",
+            "sorella",
+            "lei",
+            "suo",
+            "la sua",
+            "figlia",
+            "madre",
+            "zia",
+            "nonna"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "maschio",
+            "uomo",
+            "ragazzo",
+            "fratello",
+            "lui",
+            "lui",
+            "suo",
+            "figlio",
+            "padre",
+            "zio",
+            "nonno"
+        ]
+    }
+}

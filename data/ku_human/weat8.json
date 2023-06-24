@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "Science",
+        "examples": [
+            "zanist",
+            "teknolocî",
+            "fizîk",
+            "şîmya",
+            "Einstein",
+            "NASA",
+            "ceribandin",
+            "stêrnasî"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "helbeste",
+            "fen",
+            "Shakespeare",
+            "dans",
+            "wêje",
+            "roman",
+            "senfonî",
+            "dirama"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "brak",
+            "bav",
+            "mam",
+            "bapîr",
+            "kur",
+            "ew",
+            "bûyin",
+            "wî"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "xwişk",
+            "dê",
+            "met",
+            "dapîr",
+            "keç",
+            "wê",
+            "wê",
+            "ew"
+        ]
+    }
+}

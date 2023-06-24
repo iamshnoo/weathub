@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "LGBTQ+Words",
+        "examples": [
+            "Gay",
+            "Lesbisch",
+            "Bisexuell",
+            "Pansexuell",
+            "Queer",
+            "Transgender",
+            "Nichtbinär",
+            "Intersexuell",
+            "Dragqueen",
+            "Asexuell"
+        ]
+    },
+    "targ2": {
+        "category": "StraightWords",
+        "examples": [
+            "Heterosexuell",
+            "Gerade",
+            "Cisgender",
+            "Heteronormativ",
+            "Männlich",
+            "Feminin",
+            "Geschlecht binär",
+            "Mainstream",
+            "Normativ",
+            "Monosexuell"
+        ]
+    },
+    "attr1": {
+        "category": "Prejudice",
+        "examples": [
+            "Ignoranz",
+            "Hass",
+            "Stereotype",
+            "Homophobie",
+            "Intoleranz",
+            "Stigma",
+            "Arroganz",
+            "Unempfindlichkeit",
+            "Urteilend",
+            "Konformität"
+        ]
+    },
+    "attr2": {
+        "category": "Pride",
+        "examples": [
+            "Familie",
+            "Hochzeit",
+            "Kinder",
+            "Stabilität",
+            "Tradition",
+            "Werte",
+            "Verantwortung",
+            "Ehren",
+            "Hart arbeitend",
+            "Vermächtnis"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "targ1": {
+        "category": "Hindu religion terms",
+        "examples": [
+            "সৃষ্টিকর্তা",
+            "গীতা",
+            "ব্রাহ্মণ",
+            "পণ্ডিত",
+            "মন্দির",
+            "রাম",
+            "উপবাস"
+        ]
+    },
+    "targ2": {
+        "category": "Muslim religion terms",
+        "examples": [
+            "সৃষ্টিকর্তা",
+            "কুরআন",
+            "শিয়া",
+            "সুন্নি",
+            "মসজিদ",
+            "মুহাম্মদ",
+            "রোজা"
+        ]
+    },
+    "attr1": {
+        "category": "Hindu religion",
+        "examples": [
+            "হিন্দু",
+            "হিন্দু ধর্ম"
+        ]
+    },
+    "attr2": {
+        "category": "Muslim religion",
+        "examples": [
+            "মুসলিম",
+            "ইসলাম"
+        ]
+    }
+}

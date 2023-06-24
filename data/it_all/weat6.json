@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "MaleNames",
+        "examples": [
+            "Giovanni",
+            "Paolo",
+            "Michele",
+            "Kevin",
+            "Stefano",
+            "Gregorio",
+            "Goffredo",
+            "Guglielmo"
+        ]
+    },
+    "targ2": {
+        "category": "FemaleNames",
+        "examples": [
+            "Amy",
+            "Giovanna",
+            "Lisa",
+            "Sara",
+            "Diana",
+            "Caterina",
+            "Anna",
+            "Donna"
+        ]
+    },
+    "attr1": {
+        "category": "Career",
+        "examples": [
+            "dirigente",
+            "gestione",
+            "professionale",
+            "società",
+            "stipendio",
+            "ufficio",
+            "attività",
+            "carriera"
+        ]
+    },
+    "attr2": {
+        "category": "Family",
+        "examples": [
+            "casa",
+            "genitori",
+            "bambini",
+            "famiglia",
+            "cugini",
+            "matrimonio",
+            "matrimonio",
+            "parenti"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "targ1": {
+        "category": "Hindu religion terms",
+        "examples": [
+            "भगवान",
+            "गीता",
+            "ब्राह्मण",
+            "पंडित",
+            "मंदिर",
+            "राम",
+            "व्रत"
+        ]
+    },
+    "targ2": {
+        "category": "Muslim religion terms",
+        "examples": [
+            "अल्लाह",
+            "कुरान",
+            "शिया",
+            "सुन्नी",
+            "मस्जिद",
+            "मुहम्मद",
+            "रोजा"
+        ]
+    },
+    "attr1": {
+        "category": "Hindu religion",
+        "examples": [
+            "हिंदू",
+            "हिंदुत्व"
+        ]
+    },
+    "attr2": {
+        "category": "Muslim religion",
+        "examples": [
+            "मुसलमान",
+            "इसलाम"
+        ]
+    }
+}

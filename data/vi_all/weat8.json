@@ -1,0 +1,81 @@
+{
+    "targ1": {
+        "category": "Science",
+        "examples": [
+            "khoa học",
+            "công nghệ",
+            "vật lý",
+            "hoá học",
+            "Anhxtanh",
+            "NASA",
+            "cuộc thí nghiệm",
+            "thiên văn học"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "thơ",
+            "nghệ thuật",
+            "nhảy",
+            "văn học",
+            "cuốn tiểu thuyết",
+            "bản giao hưởng",
+            "kịch",
+            "điêu khắc",
+            "Shakespeare",
+            "tiểu thuyết"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "nam giới",
+            "người đàn ông",
+            "con trai",
+            "anh trai",
+            "Anh ta",
+            "anh ta",
+            "của anh ấy",
+            "Con trai",
+            "bố",
+            "chú",
+            "ông nội",
+            "em trai",
+            "cậu",
+            "ông",
+            "chú",
+            "cậu",
+            "ông",
+            "chú",
+            "của cậu ấy",
+            "bác",
+            "ông ngoại"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "nữ giới",
+            "đàn bà",
+            "con gái",
+            "em gái",
+            "cô ấy",
+            "cô ấy",
+            "của cô ấy",
+            "con gái",
+            "mẹ",
+            "dì",
+            "bà ngoại",
+            "chị gái",
+            "chị ấy",
+            "bà ấy",
+            "em ấy",
+            "má",
+            "thím",
+            "mợ",
+            "bác",
+            "bà nội"
+        ]
+    }
+}

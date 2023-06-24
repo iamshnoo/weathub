@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "EducatedTerms",
+        "examples": [
+            "piledar",
+            "şehade",
+            "zanko",
+            "zanko",
+            "derece",
+            "danişgayî",
+            "mamoste",
+            "pêşveçûnî",
+            "karzan",
+            "rewşen"
+        ]
+    },
+    "targ2": {
+        "category": "Non-educatedTerms",
+        "examples": [
+            "têkçû",
+            "dev ji xwendinê berdin",
+            "nezanî",
+            "nexwendewarî",
+            "remedial",
+            "derçû",
+            "flunk",
+            "girtî",
+            "derçûn",
+            "nexwende"
+        ]
+    },
+    "attr1": {
+        "category": "HigherStatusWords",
+        "examples": [
+            "arîstokrat",
+            "elît",
+            "posh",
+            "bi prestîj",
+            "berbijarkirî",
+            "sofîstîke",
+            "çandî",
+            "paqij",
+            "dewlemend",
+            "dewlemend"
+        ]
+    },
+    "attr2": {
+        "category": "LowerStatusWords",
+        "examples": [
+            "hejar",
+            "çîna karker",
+            "karkerî",
+            "netişt",
+            "hejar",
+            "feqîr",
+            "bindest",
+            "mehrûm kirin",
+            "têdikoşin",
+            "bêpar kirin"
+        ]
+    }
+}

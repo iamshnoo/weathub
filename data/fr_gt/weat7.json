@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "Math",
+        "examples": [
+            "mathématiques",
+            "algèbre",
+            "géométrie",
+            "calcul",
+            "équations",
+            "calcul",
+            "Nombres",
+            "ajout"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "poésie",
+            "art",
+            "danse",
+            "littérature",
+            "roman",
+            "symphonie",
+            "drame",
+            "sculpture"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "homme",
+            "homme",
+            "garçon",
+            "frère",
+            "il",
+            "lui",
+            "son",
+            "fils"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "femme",
+            "femme",
+            "fille",
+            "sœur",
+            "elle",
+            "son",
+            "la sienne",
+            "fille"
+        ]
+    }
+}

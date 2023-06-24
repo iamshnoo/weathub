@@ -1,0 +1,42 @@
+\begin{sidewaystable}[htb]
+    \centering
+    \caption{sheet1 monobert it results}
+    \label{appendix_tab:sheet1_monobert_it_results}
+    \small
+    \begin{tabular}{@{}ccccccccc@{}}
+        \toprule
+        Type & DataSource & Method & weat1 & weat2 & weat6 & weat7 & weat8 & weat9 \\
+        \midrule
+        contextual & ALL & mono-bert-CLS & 0.500 (0.038) & 0.566 (0.017) & -0.458 (0.808) & -0.574 (0.873) & 0.274 (0.294) & -0.281 (0.662) \\
+        contextual & ALL & mono-bert-last-hidden-subword-first & 0.045 (0.438) & -0.245 (0.813) & -0.170 (0.627) & -0.348 (0.756) & 0.226 (0.328) & -0.862 (0.912) \\
+        contextual & ALL & mono-bert-last-hidden-subword-avg & 0.335 (0.126) & -0.391 (0.924) & -0.375 (0.767) & 0.089 (0.429) & 0.082 (0.436) & -0.977 (0.959) \\
+        contextual & ALL & mono-bert-2nd-last-layer-subword-first & -0.018 (0.526) & -0.025 (0.537) & -0.058 (0.545) & -0.187 (0.641) & 0.361 (0.236) & -0.748 (0.897) \\
+        contextual & ALL & mono-bert-2nd-last-layer-subword-avg & 0.326 (0.132) & -0.368 (0.911) & -0.260 (0.691) & 0.390 (0.218) & 0.316 (0.265) & -0.830 (0.907) \\
+        contextual & ALL & mono-bert-avg-all-hidden-subword-first & 0.584 (0.018) & 0.443 (0.052) & -0.095 (0.571) & 0.893 (0.032) & 0.621 (0.105) & 0.194 (0.374) \\
+        contextual & ALL & mono-bert-avg-all-hidden-subword-avg & 0.652 (0.010) & 0.290 (0.144) & -0.258 (0.688) & 1.050 (0.013) & 0.698 (0.079) & 0.224 (0.337) \\
+        contextual & GT & mono-bert-CLS & 0.514 (0.034) & 0.273 (0.171) & -0.481 (0.825) & -0.205 (0.655) & 0.065 (0.450) & 0.389 (0.274) \\
+        contextual & GT & mono-bert-last-hidden-subword-first & 0.081 (0.389) & -0.349 (0.890) & 0.220 (0.339) & 0.044 (0.470) & 0.065 (0.452) & -0.836 (0.917) \\
+        contextual & GT & mono-bert-last-hidden-subword-avg & 0.263 (0.184) & -0.806 (0.998) & -0.098 (0.573) & 0.098 (0.424) & -0.107 (0.583) & -0.350 (0.674) \\
+        contextual & GT & mono-bert-2nd-last-layer-subword-first & 0.101 (0.363) & -0.212 (0.772) & 0.395 (0.222) & 0.085 (0.435) & 0.068 (0.448) & -0.578 (0.829) \\
+        contextual & GT & mono-bert-2nd-last-layer-subword-avg & 0.287 (0.161) & -0.820 (0.998) & 0.286 (0.292) & 0.147 (0.388) & -0.004 (0.503) & 0.223 (0.379) \\
+        contextual & GT & mono-bert-avg-all-hidden-subword-first & 0.738 (0.004) & 0.525 (0.031) & 0.466 (0.180) & 0.926 (0.032) & 0.626 (0.114) & -0.339 (0.705) \\
+        contextual & GT & mono-bert-avg-all-hidden-subword-avg & 0.603 (0.016) & -0.209 (0.767) & 0.356 (0.242) & 0.932 (0.031) & 0.698 (0.085) & 0.625 (0.146) \\
+        contextual & HT & mono-bert-CLS & 0.607 (0.015) & 0.336 (0.120) & -0.458 (0.808) & -0.558 (0.858) & 0.244 (0.321) & -0.281 (0.662) \\
+        contextual & HT & mono-bert-last-hidden-subword-first & 0.062 (0.415) & -0.363 (0.899) & -0.170 (0.627) & -0.114 (0.587) & 0.228 (0.332) & -0.862 (0.912) \\
+        contextual & HT & mono-bert-last-hidden-subword-avg & 0.356 (0.110) & -0.656 (0.991) & -0.375 (0.767) & 0.243 (0.321) & 0.076 (0.442) & -0.977 (0.959) \\
+        contextual & HT & mono-bert-2nd-last-layer-subword-first & -0.026 (0.537) & -0.236 (0.795) & -0.058 (0.545) & 0.009 (0.493) & 0.175 (0.368) & -0.748 (0.897) \\
+        contextual & HT & mono-bert-2nd-last-layer-subword-avg & 0.309 (0.144) & -0.677 (0.992) & -0.260 (0.691) & 0.470 (0.180) & 0.131 (0.400) & -0.830 (0.907) \\
+        contextual & HT & mono-bert-avg-all-hidden-subword-first & 0.641 (0.011) & 0.440 (0.060) & -0.095 (0.571) & 0.787 (0.057) & 0.645 (0.104) & 0.194 (0.374) \\
+        contextual & HT & mono-bert-avg-all-hidden-subword-avg & 0.634 (0.011) & 0.018 (0.476) & -0.258 (0.688) & 0.913 (0.032) & 0.701 (0.083) & 0.224 (0.337) \\
+        static & ALL & fasttext & 1.479 (0.000) & 1.467 (0.000) & 1.162 (0.009) & 0.734 (0.067) & 0.354 (0.239) & 0.941 (0.056) \\
+        static & ALL & mono-bert-layer-0-subword-first & 0.705 (0.005) & 0.680 (0.006) & 0.990 (0.026) & 1.240 (0.003) & 0.757 (0.061) & 0.938 (0.054) \\
+        static & ALL & mono-bert-layer-0-subword-avg & 0.759 (0.003) & 0.550 (0.021) & 0.936 (0.031) & 1.244 (0.003) & 0.764 (0.059) & 1.151 (0.023) \\
+        static & GT & fasttext & 1.319 (0.000) & 1.344 (0.000) & 1.318 (0.001) & 0.727 (0.076) & -0.152 (0.618) & 1.032 (0.036) \\
+        static & GT & mono-bert-layer-0-subword-first & 0.765 (0.002) & 0.637 (0.011) & 1.271 (0.003) & 1.087 (0.012) & 0.799 (0.058) & 0.229 (0.355) \\
+        static & GT & mono-bert-layer-0-subword-avg & 0.582 (0.019) & -0.196 (0.754) & 1.259 (0.002) & 1.079 (0.012) & 0.813 (0.054) & 1.026 (0.044) \\
+        static & HT & fasttext & 1.463 (0.000) & 1.446 (0.000) & 1.162 (0.009) & 1.054 (0.016) & 0.182 (0.364) & 0.941 (0.056) \\
+        static & HT & mono-bert-layer-0-subword-first & 0.720 (0.004) & 0.629 (0.012) & 0.990 (0.026) & 1.178 (0.007) & 0.898 (0.036) & 0.938 (0.054) \\
+        static & HT & mono-bert-layer-0-subword-avg & 0.697 (0.006) & 0.202 (0.241) & 0.936 (0.031) & 1.162 (0.008) & 0.898 (0.036) & 1.151 (0.023) \\
+        \bottomrule
+    \end{tabular}
+\end{sidewaystable}

@@ -1,0 +1,64 @@
+{
+    "targ1": {
+        "category": "InsultWords",
+        "examples": [
+            "seqet",
+            "felc",
+            "dummy",
+            "retard",
+            "numbskull",
+            "bêdeng",
+            "kerr",
+            "bêdeng",
+            "lênayê",
+            "kor"
+        ]
+    },
+    "targ2": {
+        "category": "DisabilityWords",
+        "examples": [
+            "bi dîtina kêmasî",
+            "kêmasiya bihîstinê",
+            "paraplegic",
+            "quadriplegic",
+            "dyslexic",
+            "dest yan pê birrî",
+            "Aphasic",
+            "hatûçû astengdar",
+            "Têgihîştina astengî",
+            "motor asteng kirin"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "mê",
+            "jin",
+            "keç",
+            "xwişk",
+            "wê",
+            "ew",
+            "wê",
+            "keç",
+            "dê",
+            "met",
+            "dapîr"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "nêrî",
+            "mêr",
+            "xort",
+            "brak",
+            "ew",
+            "wî",
+            "bûyin",
+            "kur",
+            "bav",
+            "mam",
+            "bapîr"
+        ]
+    }
+}

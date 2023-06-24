@@ -1,0 +1,65 @@
+{
+    "targ1": {
+        "category": "InsultWords",
+        "examples": [
+            "Krøbling",
+            "Halt",
+            "Dum",
+            "Retarderet",
+            "Følelseskalle",
+            "Stum",
+            "Døv",
+            "Dum",
+            "Uegnet",
+            "Blind"
+        ]
+    },
+    "targ2": {
+        "category": "DisabilityWords",
+        "examples": [
+            "Svagtseende",
+            "Hørehæmmet",
+            "Paraplegisk",
+            "Quadriplegisk",
+            "Ordblind",
+            "Amputeret",
+            "Afasi",
+            "Mobilitetshæmmet",
+            "Kognitivt svækket",
+            "Motorisk svækket"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "kvinde",
+            "kvinde",
+            "pige",
+            "søster",
+            "hun",
+            "hende",
+            "Hendes",
+            "datter",
+            "mor",
+            "tante",
+            "bedstemor",
+            "Dame"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "han",
+            "mand",
+            "dreng",
+            "bror",
+            "han",
+            "Ham",
+            "hans",
+            "søn",
+            "far",
+            "onkel",
+            "bedstefar"
+        ]
+    }
+}

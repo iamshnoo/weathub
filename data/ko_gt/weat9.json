@@ -1,0 +1,48 @@
+{
+    "targ1": {
+        "category": "MentalDisease",
+        "examples": [
+            "슬퍼",
+            "희망",
+            "음울한",
+            "눈물 어린",
+            "비참한",
+            "우울한"
+        ]
+    },
+    "targ2": {
+        "category": "PhysicalDisease",
+        "examples": [
+            "아픈",
+            "병",
+            "인플루엔자",
+            "질병",
+            "바이러스",
+            "암"
+        ]
+    },
+    "attr1": {
+        "category": "Temporary",
+        "examples": [
+            "영구적",
+            "불안정한",
+            "변하기 쉬운",
+            "한순간",
+            "단기",
+            "짧은",
+            "가끔"
+        ]
+    },
+    "attr2": {
+        "category": "Permanent",
+        "examples": [
+            "안정적인",
+            "언제나",
+            "끊임없는",
+            "지속성 있는",
+            "만성병 환자",
+            "장기간",
+            "영원히"
+        ]
+    }
+}

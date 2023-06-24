@@ -1,0 +1,64 @@
+{
+    "targ1": {
+        "category": "EducatedTerms",
+        "examples": [
+            "graduiert",
+            "Diplom",
+            "Universität",
+            "Hochschule",
+            "Grad",
+            "akademisch",
+            "Gelehrte",
+            "Karriere",
+            "Fachmann",
+            "Intellekt"
+        ]
+    },
+    "targ2": {
+        "category": "Non-educatedTerms",
+        "examples": [
+            "scheitern",
+            "ausfallen",
+            "Ignoranz",
+            "Analphabetentum",
+            "Abhilfe",
+            "Schulschwänzer",
+            "durchfallen",
+            "Festnahme",
+            "Schulschwänzen",
+            "Analphabet",
+            "Schwänzen"
+        ]
+    },
+    "attr1": {
+        "category": "HigherStatusWords",
+        "examples": [
+            "aristokratisch",
+            "Elite",
+            "vornehm",
+            "prestigeträchtig",
+            "privilegiert",
+            "anspruchsvoll",
+            "kultiviert",
+            "raffiniert",
+            "reich",
+            "luxuriös",
+            "wohlhabend"
+        ]
+    },
+    "attr2": {
+        "category": "LowerStatusWords",
+        "examples": [
+            "verarmt",
+            "Arbeiterklasse",
+            "blaues Halsband",
+            "unterwürfig",
+            "benachteiligt",
+            "mittellos",
+            "unterprivilegiert",
+            "beraubt",
+            "kämpfen",
+            "ausgegrenzt"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "targ1": {
+        "category": "Math",
+        "examples": [
+            "Mathematik",
+            "Algebra",
+            "Geometrie",
+            "Infinitesimalrechnung",
+            "Gleichungen",
+            "Berechnung",
+            "Zahlen",
+            "Zusatz",
+            "Stochastik",
+            "Analysis",
+            "Wahrscheinlichkeitstheorie und Statistik",
+            "Multiplikation",
+            "Division"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "Poesie",
+            "Kunst",
+            "tanzen",
+            "Literatur",
+            "Roman",
+            "Symphonie",
+            "Theater",
+            "Skulptur",
+            "Shakespeare",
+            "Ölmalerei",
+            "Pinsel",
+            "Schneidewerkzeug",
+            "Aquarell",
+            "College"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "männlich",
+            "Mann",
+            "Junge",
+            "Bruder",
+            "Er",
+            "ihn",
+            "sein",
+            "Sohn",
+            "Vater",
+            "Onkel",
+            "Großvater",
+            "Cousin"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "weiblich",
+            "Frau",
+            "Mädchen",
+            "Schwester",
+            "sie",
+            "ihr",
+            "ihres",
+            "Tochter",
+            "Mutter",
+            "Tante",
+            "Oma",
+            "Cousine"
+        ]
+    }
+}

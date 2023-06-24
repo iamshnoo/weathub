@@ -1,0 +1,48 @@
+{
+    "targ1": {
+        "category": "MentalDisease",
+        "examples": [
+            "悲しい",
+            "絶望的",
+            "暗い",
+            "涙",
+            "惨め",
+            "うつ"
+        ]
+    },
+    "targ2": {
+        "category": "PhysicalDisease",
+        "examples": [
+            "病気",
+            "病気",
+            "インフルエンザ",
+            "病気",
+            "ウイルス",
+            "癌"
+        ]
+    },
+    "attr1": {
+        "category": "Temporary",
+        "examples": [
+            "永久的でない",
+            "不安定",
+            "変数",
+            "つかの間",
+            "短期",
+            "簡単に",
+            "「たまに」"
+        ]
+    },
+    "attr2": {
+        "category": "Permanent",
+        "examples": [
+            "安定",
+            "いつも",
+            "絶え間ない",
+            "持続的に",
+            "慢性",
+            "「長期」",
+            "永遠に"
+        ]
+    }
+}

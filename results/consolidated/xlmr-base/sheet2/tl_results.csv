@@ -1,0 +1,11 @@
+Type,DataSource,Method,weat11,weat12,weat13,weat14,weat15
+contextual,NEW_HT,xlmr-CLS,-0.538 (0.883),-0.683 (0.928),0.366 (0.233),0.109 (0.438),0.541 (0.025)
+contextual,NEW_HT,xlmr-last-hidden-subword-first,0.022 (0.482),-0.515 (0.871),0.151 (0.371),0.447 (0.174),-0.071 (0.561)
+contextual,NEW_HT,xlmr-last-hidden-subword-avg,0.019 (0.484),-0.413 (0.817),-0.003 (0.502),0.655 (0.074),0.472 (0.151)
+contextual,NEW_HT,xlmr-2nd-last-layer-subword-first,-0.210 (0.677),-0.558 (0.887),0.542 (0.121),0.970 (0.007),0.214 (0.326)
+contextual,NEW_HT,xlmr-2nd-last-layer-subword-avg,-0.009 (0.505),-0.448 (0.838),0.768 (0.043),0.648 (0.076),0.617 (0.087)
+contextual,NEW_HT,xlmr-avg-all-hidden-subword-first,0.236 (0.307),-0.897 (0.981),0.416 (0.184),0.541 (0.132),0.672 (0.074)
+contextual,NEW_HT,xlmr-avg-all-hidden-subword-avg,0.226 (0.309),-0.901 (0.979),0.816 (0.034),0.590 (0.105),0.707 (0.062)
+static,NEW_HT,fasttext,0.885 (0.020),0.327 (0.241),-0.117 (0.599),1.223 (0.002),0.525 (0.128)
+static,NEW_HT,xlmr-layer-0-subword-first,-0.201 (0.670),-0.999 (0.991),0.591 (0.098),0.127 (0.436),0.420 (0.169)
+static,NEW_HT,xlmr-layer-0-subword-avg,-0.478 (0.859),-0.809 (0.965),0.234 (0.308),0.127 (0.394),0.640 (0.081)

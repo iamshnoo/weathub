@@ -1,0 +1,64 @@
+{
+    "targ1": {
+        "category": "InsultWords",
+        "examples": [
+            "Cripple",
+            "Lame",
+            "Dummy",
+            "Retard",
+            "Numbskull",
+            "Mute",
+            "Deaf",
+            "Dumb",
+            "Unfit",
+            "Blind"
+        ]
+    },
+    "targ2": {
+        "category": "DisabilityWords",
+        "examples": [
+            "Visually impaired",
+            "Hearing impaired",
+            "Paraplegic",
+            "Quadriplegic",
+            "Dyslexic",
+            "Amputee",
+            "Aphasic",
+            "Mobility impaired",
+            "Cognitively impaired",
+            "Motor impaired"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "female",
+            "woman",
+            "girl",
+            "sister",
+            "she",
+            "her",
+            "hers",
+            "daughter",
+            "mother",
+            "aunt",
+            "grandmother"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "male",
+            "man",
+            "boy",
+            "brother",
+            "he",
+            "him",
+            "his",
+            "son",
+            "father",
+            "uncle",
+            "grandfather"
+        ]
+    }
+}

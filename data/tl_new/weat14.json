@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "EducatedTerms",
+        "examples": [
+            "nagtapos",
+            "diploma",
+            "unibersidad",
+            "kolehiyo",
+            "degree",
+            "akademiko",
+            "iskolar",
+            "trabaho",
+            "propesyonal",
+            "katalinuhan"
+        ]
+    },
+    "targ2": {
+        "category": "Non-educatedTerms",
+        "examples": [
+            "bagsak",
+            "huminto sa pagaaral",
+            "ignorante",
+            "kamangmangan",
+            "remedial",
+            "tumalikod",
+            "malabo",
+            "pagkulong",
+            "pagtalikod sa trabaho",
+            "hindi marunong bumasa at sumulat"
+        ]
+    },
+    "attr1": {
+        "category": "HigherStatusWords",
+        "examples": [
+            "maharlika",
+            "elite",
+            "marangya",
+            "prestihiyoso",
+            "may pribilehiyo",
+            "sopistikado",
+            "makabayan",
+            "pino",
+            "mayaman",
+            "maluho"
+        ]
+    },
+    "attr2": {
+        "category": "LowerStatusWords",
+        "examples": [
+            "nagdarahop",
+            "uring manggagawa",
+            "asul na kwelyo",
+            "mababang uri",
+            "kawalan",
+            "naghihikahos",
+            "kapos-palad",
+            "pinagkaitan",
+            "nahihirapan",
+            "marginalized"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "targ1": {
+        "category": "InsultWords",
+        "examples": [
+            "lisiado",
+            "cojo",
+            "burro",
+            "retrasado",
+            "burro",
+            "mudo",
+            "sordo",
+            "mudo",
+            "obeso",
+            "ciego"
+        ]
+    },
+    "targ2": {
+        "category": "DisabilityWords",
+        "examples": [
+            "discapacidad visual",
+            "personas con discapacidad auditiva",
+            "paraplejico",
+            "quadriplegico",
+            "dislexico",
+            "amputado",
+            "afasico",
+            "movilidad disminuida",
+            "deterioro cognitivo",
+            "deterioro motor"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "femenino",
+            "mujer",
+            "chica",
+            "hermana",
+            "ella",
+            "su",
+            "suyo",
+            "hija",
+            "madre",
+            "tia",
+            "abuela",
+            "cholita",
+            "desgraciada"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "masculino",
+            "hombre",
+            "chico",
+            "hermano",
+            "el",
+            "a el",
+            "su",
+            "hijo",
+            "padre",
+            "tio",
+            "abuelo",
+            "flaco",
+            "chico",
+            "papi",
+            "padrino"
+        ]
+    }
+}

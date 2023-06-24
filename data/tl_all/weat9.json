@@ -1,0 +1,48 @@
+{
+    "targ1": {
+        "category": "MentalDisease",
+        "examples": [
+            "kalungkutan",
+            "walang pag-asa",
+            "malungkot",
+            "nakakaiyak",
+            "miserable",
+            "depresyon"
+        ]
+    },
+    "targ2": {
+        "category": "PhysicalDisease",
+        "examples": [
+            "sakit",
+            "sakit",
+            "influenza",
+            "sakit",
+            "virus",
+            "kanser"
+        ]
+    },
+    "attr1": {
+        "category": "Temporary",
+        "examples": [
+            "hindi permanente",
+            "hindi matatag",
+            "variable",
+            "pandalian",
+            "panandalian",
+            "maikli",
+            "paminsan-minsan"
+        ]
+    },
+    "attr2": {
+        "category": "Permanent",
+        "examples": [
+            "matatag",
+            "laging",
+            "pare-pareho",
+            "tuloy-tuloy",
+            "talamak",
+            "matagalan",
+            "magpakailanman"
+        ]
+    }
+}

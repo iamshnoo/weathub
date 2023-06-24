@@ -1,0 +1,64 @@
+{
+    "targ1": {
+        "category": "OffensiveWords",
+        "examples": [
+            "carogna",
+            "idiota",
+            "idiota",
+            "stupido",
+            "perdente",
+            "sciocco",
+            "imbecille",
+            "stupido",
+            "spazzatura",
+            "moccioso"
+        ]
+    },
+    "targ2": {
+        "category": "RespectfulWords",
+        "examples": [
+            "gentile",
+            "generoso",
+            "altruista",
+            "amichevole",
+            "onesto",
+            "affidabile",
+            "compassionevole",
+            "tollerante",
+            "leale",
+            "educato"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "femmina",
+            "donna",
+            "ragazza",
+            "sorella",
+            "lei",
+            "suo",
+            "la sua",
+            "figlia",
+            "madre",
+            "zia",
+            "nonna"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "maschio",
+            "uomo",
+            "ragazzo",
+            "fratello",
+            "lui",
+            "lui",
+            "suo",
+            "figlio",
+            "padre",
+            "zio",
+            "nonno"
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "targ1": {
+        "category": "OffensiveWords",
+        "examples": [
+            "cà trớn",
+            "thằng ngu",
+            "kẻ ngốc",
+            "câm",
+            "kẻ thất bại",
+            "ngu xuẩn",
+            "khờ dại",
+            "ngu ngốc",
+            "ot rác rưỡi",
+            "nhóc con",
+            "đần"
+        ]
+    },
+    "targ2": {
+        "category": "RespectfulWords",
+        "examples": [
+            "tốt",
+            "or độ lượng",
+            "hữu ích",
+            "thân thiện",
+            "trung thực",
+            "đáng tin cậy",
+            "thương xót",
+            "Chấp thuận",
+            "Trung thành",
+            "lịch sự",
+            "tử tế",
+            "vị tha"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "nữ giới",
+            "đàn bà",
+            "con gái",
+            "em gái",
+            "cô ấy",
+            "cô ấy",
+            "của cô ấy",
+            "con gái",
+            "mẹ",
+            "dì",
+            "bà ngoại",
+            "chị gái",
+            "chị ấy",
+            "má",
+            "thím",
+            "bà nội",
+            "bà ấy",
+            "mợ",
+            "em ấy",
+            "bác"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "nam giới",
+            "người đàn ông",
+            "con trai",
+            "anh trai",
+            "Anh ta",
+            "anh ta",
+            "của anh ấy",
+            "Con trai",
+            "bố",
+            "chú",
+            "ông nội",
+            "em trai",
+            "cậu",
+            "của cậu ấy",
+            "bác",
+            "ông ngoại",
+            "chú",
+            "ông"
+        ]
+    }
+}

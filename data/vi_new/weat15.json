@@ -1,0 +1,63 @@
+{
+    "targ1": {
+        "category": "ImmigrantTerms",
+        "examples": [
+            "người ngoài cuộc",
+            "người nước ngoài",
+            "người ngoài hành tinh",
+            "Di trú",
+            "người tị nạn",
+            "Người nước ngoài",
+            "người di cư",
+            "Người không có quyền và nghĩa vụ công dân",
+            "trục xuất",
+            "không có giấy tờ"
+        ]
+    },
+    "targ2": {
+        "category": "Non-immigrantTerms",
+        "examples": [
+            "Tự nhiên",
+            "Công dân",
+            "Địa phương",
+            "Người dân",
+            "Sinh ra",
+            "Bản địa",
+            "người định cư",
+            "Thành lập",
+            "Truyền thống",
+            "cư dân"
+        ]
+    },
+    "attr1": {
+        "category": "DisrespectfulWords",
+        "examples": [
+            "or biếng nhác",
+            "Không có học thức",
+            "không có kỹ năng",
+            "Tội phạm",
+            "Nghèo",
+            "không hiệu quả",
+            "Tham",
+            "Cơ hội",
+            "Bất hợp pháp",
+            "không mong muốn"
+        ]
+    },
+    "attr2": {
+        "category": "RespectfulWords2",
+        "examples": [
+            "hoàn thành",
+            "Làm việc chăm chỉ",
+            "Đàn hồi",
+            "tháo vát",
+            "Can đảm",
+            "Tham vọng",
+            "or tình thương",
+            "Có tài",
+            "lành nghề",
+            "Tận tụy",
+            "động lòng trắc ẩn"
+        ]
+    }
+}

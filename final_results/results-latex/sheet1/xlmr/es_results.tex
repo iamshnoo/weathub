@@ -1,0 +1,42 @@
+\begin{sidewaystable}[htb]
+    \centering
+    \caption{sheet1 xlmr es results}
+    \label{appendix_tab:sheet1_xlmr_es_results}
+    \small
+    \begin{tabular}{@{}ccccccccc@{}}
+        \toprule
+        Type & DataSource & Method & weat1 & weat2 & weat6 & weat7 & weat8 & weat9 \\
+        \midrule
+        contextual & ALL & xlmr-CLS & 0.217 (0.386) & 0.109 (0.353) & 0.197 (0.357) & -0.219 (0.646) & 0.281 (0.288) & 0.622 (0.115) \\
+        contextual & ALL & xlmr-last-hidden-subword-first & 0.488 (0.040) & 0.100 (0.372) & 0.344 (0.254) & 0.843 (0.036) & -0.518 (0.846) & -1.133 (0.988) \\
+        contextual & ALL & xlmr-last-hidden-subword-avg & 0.248 (0.194) & 0.180 (0.267) & 0.230 (0.327) & 0.774 (0.057) & 0.327 (0.256) & -0.840 (0.949) \\
+        contextual & ALL & xlmr-2nd-last-layer-subword-first & 0.509 (0.034) & 0.068 (0.409) & -0.007 (0.505) & 0.966 (0.013) & -0.503 (0.841) & -1.333 (0.997) \\
+        contextual & ALL & xlmr-2nd-last-layer-subword-avg & 0.277 (0.171) & 0.061 (0.419) & 0.438 (0.197) & 0.989 (0.020) & 0.164 (0.372) & -0.895 (0.961) \\
+        contextual & ALL & xlmr-avg-all-hidden-subword-first & 0.527 (0.029) & 0.092 (0.374) & 0.885 (0.035) & 0.791 (0.023) & -0.358 (0.759) & -1.512 (1.000) \\
+        contextual & ALL & xlmr-avg-all-hidden-subword-avg & 0.401 (0.082) & -0.007 (0.511) & 0.875 (0.041) & 0.925 (0.027) & 0.113 (0.411) & -0.745 (0.927) \\
+        contextual & GT & xlmr-CLS & 0.196 (0.250) & -0.332 (0.875) & 0.559 (0.138) & 0.189 (0.354) & 0.532 (0.126) & -0.267 (0.661) \\
+        contextual & GT & xlmr-last-hidden-subword-first & 0.160 (0.289) & 0.287 (0.159) & 0.972 (0.024) & 0.503 (0.167) & 0.986 (0.022) & -0.259 (0.665) \\
+        contextual & GT & xlmr-last-hidden-subword-avg & 0.280 (0.165) & 0.350 (0.110) & 0.795 (0.057) & 0.405 (0.214) & 1.016 (0.018) & 0.463 (0.231) \\
+        contextual & GT & xlmr-2nd-last-layer-subword-first & 0.175 (0.273) & 0.087 (0.381) & 0.895 (0.035) & 0.614 (0.121) & 1.320 (0.002) & -0.101 (0.558) \\
+        contextual & GT & xlmr-2nd-last-layer-subword-avg & 0.208 (0.234) & 0.196 (0.246) & 0.475 (0.176) & 0.458 (0.187) & 1.190 (0.007) & 0.391 (0.253) \\
+        contextual & GT & xlmr-avg-all-hidden-subword-first & 0.558 (0.021) & -0.046 (0.565) & 1.318 (0.000) & 0.695 (0.088) & 1.334 (0.003) & -0.495 (0.792) \\
+        contextual & GT & xlmr-avg-all-hidden-subword-avg & 0.431 (0.066) & 0.216 (0.229) & 0.965 (0.018) & 0.618 (0.110) & 1.145 (0.009) & 0.147 (0.413) \\
+        contextual & HT & xlmr-CLS & 0.235 (0.371) & 0.149 (0.303) & 0.028 (0.480) & -0.025 (0.517) & 0.085 (0.433) & 0.143 (0.394) \\
+        contextual & HT & xlmr-last-hidden-subword-first & -0.240 (0.800) & 0.271 (0.169) & 0.112 (0.414) & -0.638 (0.895) & 0.806 (0.053) & -0.892 (0.930) \\
+        contextual & HT & xlmr-last-hidden-subword-avg & 0.010 (0.485) & 0.058 (0.420) & 0.097 (0.425) & -0.244 (0.682) & 0.625 (0.112) & -0.470 (0.797) \\
+        contextual & HT & xlmr-2nd-last-layer-subword-first & -0.161 (0.714) & 0.217 (0.223) & 0.252 (0.311) & -0.171 (0.618) & 0.762 (0.067) & -1.032 (0.961) \\
+        contextual & HT & xlmr-2nd-last-layer-subword-avg & -0.041 (0.556) & -0.069 (0.593) & 0.238 (0.322) & 0.296 (0.283) & 0.557 (0.142) & -0.565 (0.827) \\
+        contextual & HT & xlmr-avg-all-hidden-subword-first & 0.217 (0.227) & 0.069 (0.403) & 0.465 (0.182) & 0.092 (0.429) & 0.836 (0.047) & -0.914 (0.944) \\
+        contextual & HT & xlmr-avg-all-hidden-subword-avg & 0.259 (0.185) & -0.093 (0.625) & 0.624 (0.111) & 0.040 (0.470) & 0.585 (0.125) & -0.506 (0.819) \\
+        static & ALL & fasttext & 1.373 (0.000) & 1.045 (0.000) & 1.471 (0.000) & 0.574 (0.123) & 0.496 (0.158) & 1.053 (0.016) \\
+        static & ALL & xlmr-layer-0-subword-first & 0.261 (0.177) & 0.121 (0.338) & 0.865 (0.041) & 0.450 (0.183) & 0.239 (0.316) & -0.513 (0.835) \\
+        static & ALL & xlmr-layer-0-subword-avg & 0.323 (0.127) & -0.146 (0.694) & 0.731 (0.075) & 1.019 (0.017) & 0.467 (0.178) & 0.151 (0.387) \\
+        static & GT & fasttext & 1.404 (0.000) & 1.029 (0.000) & 1.792 (0.000) & 0.946 (0.028) & 0.254 (0.311) & 0.361 (0.281) \\
+        static & GT & xlmr-layer-0-subword-first & 0.380 (0.090) & 0.038 (0.446) & 1.519 (0.000) & 0.695 (0.085) & 0.641 (0.104) & -0.364 (0.715) \\
+        static & GT & xlmr-layer-0-subword-avg & 0.326 (0.129) & 0.282 (0.162) & 1.407 (0.001) & 0.435 (0.197) & 0.343 (0.258) & 0.450 (0.220) \\
+        static & HT & fasttext & 1.373 (0.000) & 0.914 (0.000) & 1.328 (0.001) & 0.654 (0.098) & 0.243 (0.323) & 0.970 (0.053) \\
+        static & HT & xlmr-layer-0-subword-first & 0.197 (0.247) & 0.077 (0.394) & 0.671 (0.094) & 0.525 (0.157) & 0.413 (0.209) & -0.255 (0.655) \\
+        static & HT & xlmr-layer-0-subword-avg & 0.214 (0.228) & -0.077 (0.607) & 0.669 (0.094) & 0.808 (0.053) & 0.436 (0.197) & 0.024 (0.482) \\
+        \bottomrule
+    \end{tabular}
+\end{sidewaystable}

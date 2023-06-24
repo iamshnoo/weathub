@@ -1,0 +1,48 @@
+{
+    "targ1": {
+        "category": "MentalDisease",
+        "examples": [
+            "triste",
+            "senza speranza",
+            "malinconico",
+            "piangente",
+            "infelice",
+            "depresso"
+        ]
+    },
+    "targ2": {
+        "category": "PhysicalDisease",
+        "examples": [
+            "malato",
+            "malattia",
+            "influenza",
+            "malattia",
+            "virus",
+            "cancro"
+        ]
+    },
+    "attr1": {
+        "category": "Temporary",
+        "examples": [
+            "temporaneo",
+            "instabile",
+            "variabile",
+            "fugace",
+            "a breve termine",
+            "breve",
+            "occasionale"
+        ]
+    },
+    "attr2": {
+        "category": "Permanent",
+        "examples": [
+            "stabile",
+            "sempre",
+            "costante",
+            "persistente",
+            "cronico",
+            "prolungato",
+            "per sempre"
+        ]
+    }
+}

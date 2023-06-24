@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "MaleNames",
+        "examples": [
+            "John",
+            "Pablo",
+            "Mike",
+            "Kevin",
+            "Steve",
+            "Greg",
+            "Jeff",
+            "Bill"
+        ]
+    },
+    "targ2": {
+        "category": "FemaleNames",
+        "examples": [
+            "Amy",
+            "Joan",
+            "Lisa",
+            "Sarah",
+            "Diana",
+            "Kate",
+            "Ann",
+            "Donna"
+        ]
+    },
+    "attr1": {
+        "category": "Career",
+        "examples": [
+            "ehekutibo",
+            "pamamahala",
+            "propesyonal",
+            "korporasyon",
+            "suweldo",
+            "opisina",
+            "negosyo",
+            "karera"
+        ]
+    },
+    "attr2": {
+        "category": "Family",
+        "examples": [
+            "bahay",
+            "mga magulang",
+            "mga bata",
+            "pamilya",
+            "magpinsan",
+            "kasal",
+            "kasal",
+            "kamag-anak"
+        ]
+    }
+}

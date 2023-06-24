@@ -1,0 +1,63 @@
+{
+    "targ1": {
+        "category": "EducatedTerms",
+        "examples": [
+            "đã tốt nghiệp",
+            "bằng cấp",
+            "trường đại học",
+            "trường cao đẳng",
+            "bằng cấp",
+            "học thuật",
+            "học giả",
+            "sự nghiệp",
+            "chuyên nghiệp",
+            "trí tuệ"
+        ]
+    },
+    "targ2": {
+        "category": "Non-educatedTerms",
+        "examples": [
+            "thất bại",
+            "bỏ học",
+            "thiếu hiểu biết",
+            "sự thất học",
+            "khắc phục hậu quả",
+            "trốn học",
+            "bị đánh rớt",
+            "tạm giam",
+            "trốn học",
+            "mù chữ"
+        ]
+    },
+    "attr1": {
+        "category": "HigherStatusWords",
+        "examples": [
+            "quý tộc",
+            "ưu tú",
+            "sang trọng",
+            "uy tín",
+            "đặc quyền",
+            "cầu kì",
+            "văn hóa",
+            "tinh chế",
+            "giàu có",
+            "sang trọng"
+        ]
+    },
+    "attr2": {
+        "category": "LowerStatusWords",
+        "examples": [
+            "nghèo khó",
+            "tầng lớp lao động",
+            "những người lao động chân tay",
+            "tầm thường",
+            "thiệt thòi",
+            "cơ cực",
+            "thiệt thòi",
+            "tước đoạt",
+            "đấu tranh",
+            "bị gạt ra ngoài lề xã hội",
+            "công nhân"
+        ]
+    }
+}

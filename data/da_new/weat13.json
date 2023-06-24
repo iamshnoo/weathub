@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "LGBTQ+Words",
+        "examples": [
+            "homoseksuel",
+            "Lesbisk",
+            "Biseksuel",
+            "Panseksuel",
+            "Queer",
+            "Transkønnet",
+            "Ikke-binær",
+            "Intersex",
+            "Drag Queen",
+            "Aseksuel"
+        ]
+    },
+    "targ2": {
+        "category": "StraightWords",
+        "examples": [
+            "Heteroseksuel",
+            "Lige",
+            "Cisgender",
+            "Heteronormativ",
+            "Maskulin",
+            "Feminin",
+            "Binært køn",
+            "Mainstream",
+            "Normativ",
+            "Monoseksuel"
+        ]
+    },
+    "attr1": {
+        "category": "Prejudice",
+        "examples": [
+            "Uvidenhed",
+            "Had",
+            "Stereotyper",
+            "Homofobi",
+            "Intolerance",
+            "Stigma",
+            "Arrogance",
+            "Ufølsomhed",
+            "Fordømmende",
+            "Overensstemmelse"
+        ]
+    },
+    "attr2": {
+        "category": "Pride",
+        "examples": [
+            "Familie",
+            "Ægteskab",
+            "Børn",
+            "Stabilitet",
+            "Tradition",
+            "Værdier",
+            "Ansvar",
+            "Ære",
+            "Hårdtarbejdende",
+            "Eftermæle"
+        ]
+    }
+}

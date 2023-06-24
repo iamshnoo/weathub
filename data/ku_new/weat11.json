@@ -1,0 +1,64 @@
+{
+    "targ1": {
+        "category": "OffensiveWords",
+        "examples": [
+            "qeşmer",
+            "xirpo",
+            "bêhiş",
+            "kêmaqil",
+            "xesirî",
+            "xirpo",
+            "bêaqil",
+            "bale",
+            "zibil",
+            "Brat"
+        ]
+    },
+    "targ2": {
+        "category": "RespectfulWords",
+        "examples": [
+            "dilovan",
+            "dilmezin",
+            "alîkarane",
+            "dostane",
+            "dilpaqij",
+            "pêbawer",
+            "dilovan",
+            "bêhnfire",
+            "pêvgirêda",
+            "dilnizm"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "mê",
+            "jin",
+            "keç",
+            "xwişk",
+            "wê",
+            "ew",
+            "wê",
+            "keç",
+            "dê",
+            "met",
+            "dapîr"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "nêrî",
+            "mêr",
+            "xort",
+            "brak",
+            "ew",
+            "wî",
+            "bûyin",
+            "kur",
+            "bav",
+            "mam",
+            "bapîr"
+        ]
+    }
+}

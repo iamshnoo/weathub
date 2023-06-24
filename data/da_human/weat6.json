@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "MaleNames",
+        "examples": [
+            "Oliver",
+            "Mikkel",
+            "Frederik",
+            "Christian",
+            "Magnus",
+            "Emil",
+            "Oscar",
+            "Lucas"
+        ]
+    },
+    "targ2": {
+        "category": "FemaleNames",
+        "examples": [
+            "Emma",
+            "Sofia",
+            "Freja",
+            "Alma",
+            "Ida",
+            "Ella",
+            "Isabella",
+            "Clara"
+        ]
+    },
+    "attr1": {
+        "category": "Career",
+        "examples": [
+            "Leder",
+            "ledelse",
+            "professionel",
+            "virksomhed",
+            "løn",
+            "kontor",
+            "forretning",
+            "karriere"
+        ]
+    },
+    "attr2": {
+        "category": "Family",
+        "examples": [
+            "hjem",
+            "forældre",
+            "børn",
+            "familie",
+            "fætre",
+            "ægteskab",
+            "bryllup",
+            "pårørende"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "targ1": {
+        "category": "Hindu religion terms",
+        "examples": [
+            "خدا",
+            "گیتا",
+            "برہمن",
+            "پنڈت",
+            "مندر",
+            "رام",
+            "روزہ"
+        ]
+    },
+    "targ2": {
+        "category": "Muslim religion terms",
+        "examples": [
+            "اللہ",
+            "قرآن",
+            "شیعہ",
+            "سنی",
+            "مسجد",
+            "محمد",
+            "روزہ"
+        ]
+    },
+    "attr1": {
+        "category": "Hindu religion",
+        "examples": [
+            "ہندو",
+            "ہندوتوا"
+        ]
+    },
+    "attr2": {
+        "category": "Muslim religion",
+        "examples": [
+            "مسلمان",
+            "اسلام"
+        ]
+    }
+}

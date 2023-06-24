@@ -1,0 +1,32 @@
+[
+    {
+        "weat_effect_size": "0.301",
+        "weat_p_value": "0.147",
+        "experiment_id": "weat1_lang_el_encode_words_openai_ada_lang_el_phrase_average_human_translated_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.187",
+        "weat_p_value": "0.259",
+        "experiment_id": "weat2_lang_el_encode_words_openai_ada_lang_el_phrase_average_human_translated_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "-0.551",
+        "weat_p_value": "0.859",
+        "experiment_id": "weat6_lang_el_encode_words_openai_ada_lang_el_phrase_average_human_translated_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.811",
+        "weat_p_value": "0.053",
+        "experiment_id": "weat7_lang_el_encode_words_openai_ada_lang_el_phrase_average_human_translated_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "-0.568",
+        "weat_p_value": "0.848",
+        "experiment_id": "weat8_lang_el_encode_words_openai_ada_lang_el_phrase_average_human_translated_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.928",
+        "weat_p_value": "0.036",
+        "experiment_id": "weat9_lang_el_encode_words_openai_ada_lang_el_phrase_average_human_translated_seed_42_partitions_100000_normalized"
+    }
+]

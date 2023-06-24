@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "Math",
+        "examples": [
+            "matematik",
+            "algebra",
+            "geometri",
+            "kalkulus",
+            "ligninger",
+            "beregning",
+            "tal",
+            "tillæg"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "poesi",
+            "kunst",
+            "dans",
+            "litteratur",
+            "roman",
+            "symfoni",
+            "drama",
+            "skulptur"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "han",
+            "mand",
+            "dreng",
+            "bror",
+            "han",
+            "Hej M",
+            "hans",
+            "søn"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "kvinde",
+            "kvinde",
+            "pige",
+            "søster",
+            "hun",
+            "hende",
+            "Hendes",
+            "datter"
+        ]
+    }
+}

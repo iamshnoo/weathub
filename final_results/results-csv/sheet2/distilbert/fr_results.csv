@@ -1,0 +1,11 @@
+Type,DataSource,Method,weat11,weat12,weat13,weat14,weat15
+contextual,NEW_HT,distilbert-CLS,-0.438 (0.861),-0.682 (0.938),0.168 (0.361),-0.265 (0.706),0.508 (0.132)
+contextual,NEW_HT,distilbert-last-hidden-subword-first,0.165 (0.342),-0.087 (0.576),0.028 (0.477),-0.635 (0.919),-0.025 (0.523)
+contextual,NEW_HT,distilbert-last-hidden-subword-avg,-0.000 (0.503),0.550 (0.107),0.029 (0.474),-1.304 (0.999),-0.359 (0.775)
+contextual,NEW_HT,distilbert-2nd-last-layer-subword-first,0.215 (0.300),0.232 (0.304),0.024 (0.480),-0.536 (0.881),-0.057 (0.549)
+contextual,NEW_HT,distilbert-2nd-last-layer-subword-avg,0.166 (0.343),0.583 (0.099),-0.087 (0.576),-1.214 (0.998),-0.378 (0.791)
+contextual,NEW_HT,distilbert-avg-all-hidden-subword-first,-0.641 (0.948),0.517 (0.123),0.544 (0.118),-0.321 (0.758),-0.027 (0.524)
+contextual,NEW_HT,distilbert-avg-all-hidden-subword-avg,-0.751 (0.973),0.645 (0.072),-0.016 (0.514),-1.147 (0.996),-0.320 (0.750)
+static,NEW_HT,fasttext,-0.761 (0.974),-0.103 (0.600),0.407 (0.188),1.111 (0.004),0.844 (0.027)
+static,NEW_HT,distilbert-layer-0-subword-first,-0.921 (0.992),0.327 (0.233),0.818 (0.030),-0.393 (0.806),0.057 (0.468)
+static,NEW_HT,distilbert-layer-0-subword-avg,-0.818 (0.982),0.308 (0.248),0.116 (0.393),-1.108 (0.995),-0.281 (0.725)

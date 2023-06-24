@@ -1,0 +1,61 @@
+{
+    "targ1": {
+        "category": "Math",
+        "examples": [
+            "matematîk",
+            "cebîr",
+            "geometrî",
+            "hesab",
+            "hevkêşan",
+            "hejmar",
+            "hejmar",
+            "zêdeyî"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "helbeste",
+            "fen",
+            "dans",
+            "wêje",
+            "roman",
+            "senfonî",
+            "dirama",
+            "pût",
+            "Shakespeare"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "nêrî",
+            "mêr",
+            "xort",
+            "brak",
+            "ew",
+            "wî",
+            "bûyin",
+            "kur",
+            "bav",
+            "mam",
+            "bapîr"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "mê",
+            "jin",
+            "keç",
+            "xwişk",
+            "wê",
+            "ew",
+            "wê",
+            "keç",
+            "dê",
+            "met",
+            "dapîr"
+        ]
+    }
+}

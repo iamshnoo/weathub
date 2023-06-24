@@ -1,0 +1,65 @@
+{
+    "targ1": {
+        "category": "OffensiveWords",
+        "examples": [
+            "fjols",
+            "fjols",
+            "idiot",
+            "dum",
+            "taber",
+            "narre",
+            "imbecil",
+            "Dum",
+            "affald",
+            "Møgunge"
+        ]
+    },
+    "targ2": {
+        "category": "RespectfulWords",
+        "examples": [
+            "venlig",
+            "Gavmild",
+            "nyttig",
+            "venlige",
+            "ærlig",
+            "troværdig",
+            "medfølende",
+            "Tolerant",
+            "Loyal",
+            "høflig"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "kvinde",
+            "kvinde",
+            "pige",
+            "søster",
+            "hun",
+            "hende",
+            "Hendes",
+            "datter",
+            "mor",
+            "tante",
+            "bedstemor",
+            "Dame"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "han",
+            "mand",
+            "dreng",
+            "bror",
+            "han",
+            "Ham",
+            "hans",
+            "søn",
+            "far",
+            "onkel",
+            "bedstefar"
+        ]
+    }
+}

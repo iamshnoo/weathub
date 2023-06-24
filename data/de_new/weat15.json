@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "ImmigrantTerms",
+        "examples": [
+            "Außenseiter",
+            "Ausländer",
+            "Außerirdischer",
+            "Immigrant",
+            "Flüchtling",
+            "Expat",
+            "Migrant",
+            "Nicht-Bürger",
+            "Deportieren",
+            "Undokumentiert"
+        ]
+    },
+    "targ2": {
+        "category": "Non-immigrantTerms",
+        "examples": [
+            "Einheimisch",
+            "Bürger",
+            "Lokal",
+            "Bewohner",
+            "Geboren",
+            "Einheimisch",
+            "Siedler",
+            "Gegründet",
+            "Traditionell",
+            "Einwohner"
+        ]
+    },
+    "attr1": {
+        "category": "DisrespectfulWords",
+        "examples": [
+            "Faul",
+            "Ungebildet",
+            "Ungelernt",
+            "Kriminell",
+            "Arm",
+            "Unproduktiv",
+            "Gierig",
+            "Opportunistisch",
+            "Illegal",
+            "Unerwünscht"
+        ]
+    },
+    "attr2": {
+        "category": "RespectfulWords2",
+        "examples": [
+            "Vollendet",
+            "Hart arbeitend",
+            "Robust",
+            "Einfallsreich",
+            "Mutig",
+            "Ehrgeizig",
+            "Mitfühlend",
+            "Talentiert",
+            "Geschickt",
+            "Gewidmet"
+        ]
+    }
+}

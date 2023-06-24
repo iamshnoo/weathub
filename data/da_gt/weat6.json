@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "MaleNames",
+        "examples": [
+            "John",
+            "Paul",
+            "Mike",
+            "Kevin",
+            "Steve",
+            "Greg",
+            "Jeff",
+            "Regning"
+        ]
+    },
+    "targ2": {
+        "category": "FemaleNames",
+        "examples": [
+            "Amy",
+            "Joan",
+            "Lisa",
+            "Sarah",
+            "Diana",
+            "Kate",
+            "Ann",
+            "Donna"
+        ]
+    },
+    "attr1": {
+        "category": "Career",
+        "examples": [
+            "executive",
+            "ledelse",
+            "professionel",
+            "virksomhed",
+            "løn",
+            "kontor",
+            "forretning",
+            "karriere"
+        ]
+    },
+    "attr2": {
+        "category": "Family",
+        "examples": [
+            "hjem",
+            "forældre",
+            "børn",
+            "familie",
+            "fætre",
+            "ægteskab",
+            "bryllup",
+            "pårørende"
+        ]
+    }
+}

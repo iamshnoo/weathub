@@ -1,0 +1,64 @@
+{
+    "targ1": {
+        "category": "OffensiveWords",
+        "examples": [
+            "jerk",
+            "moron",
+            "idiot",
+            "dumb",
+            "loser",
+            "fool",
+            "imbecile",
+            "stupid",
+            "trash",
+            "Brat"
+        ]
+    },
+    "targ2": {
+        "category": "RespectfulWords",
+        "examples": [
+            "kind",
+            "Generous",
+            "helpful",
+            "friendly",
+            "honest",
+            "trustworthy",
+            "compassionate",
+            "Tolerant",
+            "Loyal",
+            "polite"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "female",
+            "woman",
+            "girl",
+            "sister",
+            "she",
+            "her",
+            "hers",
+            "daughter",
+            "mother",
+            "aunt",
+            "grandmother"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "male",
+            "man",
+            "boy",
+            "brother",
+            "he",
+            "him",
+            "his",
+            "son",
+            "father",
+            "uncle",
+            "grandfather"
+        ]
+    }
+}

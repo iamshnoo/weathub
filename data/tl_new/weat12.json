@@ -1,0 +1,65 @@
+{
+    "targ1": {
+        "category": "InsultWords",
+        "examples": [
+            "Lumpo",
+            "Pilay",
+            "Dummy",
+            "Patigilin",
+            "Numbskull",
+            "pipi",
+            "Bingi",
+            "bobo",
+            "Hindi karapat-dapat",
+            "Bulag"
+        ]
+    },
+    "targ2": {
+        "category": "DisabilityWords",
+        "examples": [
+            "bulag",
+            "bingi",
+            "Paraplegic",
+            "Quadriplegic",
+            "Dyslexic",
+            "Pinutol",
+            "Aphasic",
+            "May kapansanan sa kadaliang kumilos",
+            "May kapansanan sa pag-iisip",
+            "May kapansanan sa motor"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "babae",
+            "babae",
+            "babae",
+            "ate",
+            "siya",
+            "siya",
+            "sa kanya",
+            "anak na babae",
+            "inay",
+            "Tiya",
+            "lola",
+            "nanay"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "lalaki",
+            "lalaki",
+            "lalaki",
+            "kuya",
+            "siya",
+            "siya",
+            "kaniya",
+            "anak",
+            "tatay",
+            "tito",
+            "lolo"
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "targ1": {
+        "category": "InsultWords",
+        "examples": [
+            "què quặt",
+            "Què",
+            "đần độn",
+            "chậm phát triển",
+            "đần độn",
+            "câm",
+            "Điếc",
+            "or khờ dại",
+            "bất tài",
+            "Mù",
+            "ngu ngốc"
+        ]
+    },
+    "targ2": {
+        "category": "DisabilityWords",
+        "examples": [
+            "Khiếm thị",
+            "Khiếm thính",
+            "liệt nửa người",
+            "liệt tứ chi",
+            "chứng khó đọc",
+            "cụt chi",
+            "mất ngôn ngữ",
+            "di động suy giảm",
+            "suy giảm nhận thức",
+            "động cơ bị suy giảm"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "nữ giới",
+            "đàn bà",
+            "con gái",
+            "em gái",
+            "cô ấy",
+            "cô ấy",
+            "của cô ấy",
+            "con gái",
+            "mẹ",
+            "dì",
+            "bà ngoại",
+            "chị gái",
+            "chị ấy",
+            "má",
+            "thím",
+            "bà nội",
+            "bà ấy",
+            "mợ",
+            "em ấy",
+            "bác"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "nam giới",
+            "người đàn ông",
+            "con trai",
+            "anh trai",
+            "Anh ta",
+            "anh ta",
+            "của anh ấy",
+            "Con trai",
+            "bố",
+            "chú",
+            "ông nội",
+            "em trai",
+            "cậu",
+            "của cậu ấy",
+            "bác",
+            "ông ngoại",
+            "chú",
+            "ông"
+        ]
+    }
+}

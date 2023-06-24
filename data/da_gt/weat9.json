@@ -1,0 +1,48 @@
+{
+    "targ1": {
+        "category": "MentalDisease",
+        "examples": [
+            "trist",
+            "håbløs",
+            "dyster",
+            "tårende",
+            "elendig",
+            "deprimeret"
+        ]
+    },
+    "targ2": {
+        "category": "PhysicalDisease",
+        "examples": [
+            "syg",
+            "sygdom",
+            "influenza",
+            "sygdom",
+            "virus",
+            "Kræft"
+        ]
+    },
+    "attr1": {
+        "category": "Temporary",
+        "examples": [
+            "forgængelig",
+            "ustabil",
+            "variabel",
+            "flygtig",
+            "kort sigt",
+            "kort",
+            "lejlighedsvis"
+        ]
+    },
+    "attr2": {
+        "category": "Permanent",
+        "examples": [
+            "stabil",
+            "altid",
+            "konstant",
+            "vedholdende",
+            "kronisk",
+            "langvarig",
+            "for evigt"
+        ]
+    }
+}

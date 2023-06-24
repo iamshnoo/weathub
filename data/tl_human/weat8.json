@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "Science",
+        "examples": [
+            "agham",
+            "teknolohiya",
+            "physics",
+            "kimika",
+            "Einstein",
+            "NASA",
+            "eksperimento",
+            "astronomiya"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "mga tula",
+            "sining",
+            "Shakespeare",
+            "sayaw",
+            "panitikan",
+            "nobela",
+            "symphony",
+            "drama"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "kuya",
+            "tatay",
+            "tito",
+            "lolo",
+            "anak",
+            "siya",
+            "kaniya",
+            "siya"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "ate",
+            "inay",
+            "Tiya",
+            "lola",
+            "anak na babae",
+            "siya",
+            "sa kanya",
+            "siya"
+        ]
+    }
+}

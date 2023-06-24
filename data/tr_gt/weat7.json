@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "Math",
+        "examples": [
+            "matematik",
+            "cebir",
+            "geometri",
+            "hesap",
+            "denklemler",
+            "hesaplama",
+            "sayılar",
+            "ek"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "şiir",
+            "sanat",
+            "dans",
+            "edebiyat",
+            "roman",
+            "senfoni",
+            "drama",
+            "heykel"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "erkek",
+            "Adam",
+            "erkek çocuk",
+            "Erkek kardeş",
+            "O",
+            "o",
+            "onun",
+            "oğul"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "dişi",
+            "kadın",
+            "kız",
+            "kız kardeş",
+            "o",
+            "o",
+            "onunki",
+            "kız çocuğu"
+        ]
+    }
+}

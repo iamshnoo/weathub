@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "EducatedTerms",
+        "examples": [
+            "gradueret",
+            "eksamensbevis",
+            "universitet",
+            "kollegium",
+            "grad",
+            "akademisk",
+            "lærd",
+            "karriere",
+            "professionel",
+            "intellekt"
+        ]
+    },
+    "targ2": {
+        "category": "Non-educatedTerms",
+        "examples": [
+            "svigte",
+            "droppe ud",
+            "uvidenhed",
+            "analfabetisme",
+            "afhjælpende",
+            "pjækker",
+            "flunk",
+            "tilbageholdelse",
+            "fravær",
+            "analfabetisk"
+        ]
+    },
+    "attr1": {
+        "category": "HigherStatusWords",
+        "examples": [
+            "aristokratisk",
+            "elite",
+            "fornemt",
+            "prestigefyldte",
+            "privilegeret",
+            "sofistikeret",
+            "dyrkede",
+            "raffineret",
+            "velhavende",
+            "luksuriøs"
+        ]
+    },
+    "attr2": {
+        "category": "LowerStatusWords",
+        "examples": [
+            "fattige",
+            "arbejderklasse",
+            "blåkrave",
+            "menial",
+            "dårligt stillede",
+            "nødlidende",
+            "underprivilegerede",
+            "frataget",
+            "kæmper",
+            "marginaliseret"
+        ]
+    }
+}

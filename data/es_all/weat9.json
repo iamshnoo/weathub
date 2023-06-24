@@ -1,0 +1,58 @@
+{
+    "targ1": {
+        "category": "MentalDisease",
+        "examples": [
+            "Triste",
+            "Desesperanzado",
+            "Sombrio",
+            "Lloroso",
+            "Miserable",
+            "Deprimido",
+            "rayado",
+            "huevon",
+            "tembleque",
+            "mongolito",
+            "suicida"
+        ]
+    },
+    "targ2": {
+        "category": "PhysicalDisease",
+        "examples": [
+            "enfermo",
+            "enfermedad",
+            "influenza",
+            "enfermedad",
+            "virus",
+            "cancer"
+        ]
+    },
+    "attr1": {
+        "category": "Temporary",
+        "examples": [
+            "impermanente",
+            "inestable",
+            "variable",
+            "fugaz",
+            "corto plazo",
+            "breve",
+            "ocasional",
+            "toque",
+            "rapidin",
+            "ahorita"
+        ]
+    },
+    "attr2": {
+        "category": "Permanent",
+        "examples": [
+            "estable",
+            "siempre",
+            "constante",
+            "persistente",
+            "cronico",
+            "prolongado",
+            "para siempre",
+            "chamba",
+            "fan"
+        ]
+    }
+}

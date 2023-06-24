@@ -1,0 +1,32 @@
+[
+    {
+        "weat_effect_size": "-0.208",
+        "weat_p_value": "0.764",
+        "experiment_id": "weat1_lang_el_xlm-roberta-large_encode_words_contextual_encoding_method_bert_last_hidden_state_subword_average_phrase_average_human_translated_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.166",
+        "weat_p_value": "0.284",
+        "experiment_id": "weat2_lang_el_xlm-roberta-large_encode_words_contextual_encoding_method_bert_last_hidden_state_subword_average_phrase_average_human_translated_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.079",
+        "weat_p_value": "0.437",
+        "experiment_id": "weat6_lang_el_xlm-roberta-large_encode_words_contextual_encoding_method_bert_last_hidden_state_subword_average_phrase_average_human_translated_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "-0.031",
+        "weat_p_value": "0.523",
+        "experiment_id": "weat7_lang_el_xlm-roberta-large_encode_words_contextual_encoding_method_bert_last_hidden_state_subword_average_phrase_average_human_translated_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "-0.589",
+        "weat_p_value": "0.875",
+        "experiment_id": "weat8_lang_el_xlm-roberta-large_encode_words_contextual_encoding_method_bert_last_hidden_state_subword_average_phrase_average_human_translated_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.242",
+        "weat_p_value": "0.364",
+        "experiment_id": "weat9_lang_el_xlm-roberta-large_encode_words_contextual_encoding_method_bert_last_hidden_state_subword_average_phrase_average_human_translated_seed_42_partitions_100000_normalized"
+    }
+]

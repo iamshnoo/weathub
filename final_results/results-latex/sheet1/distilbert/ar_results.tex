@@ -1,0 +1,42 @@
+\begin{sidewaystable}[htb]
+    \centering
+    \caption{sheet1 distilbert ar results}
+    \label{appendix_tab:sheet1_distilbert_ar_results}
+    \small
+    \begin{tabular}{@{}ccccccccc@{}}
+        \toprule
+        Type & DataSource & Method & weat1 & weat2 & weat6 & weat7 & weat8 & weat9 \\
+        \midrule
+        contextual & ALL & distilbert-CLS & 0.051 (0.420) & 0.192 (0.227) & 1.381 (0.002) & -0.249 (0.688) & -0.836 (0.958) & 0.651 (0.132) \\
+        contextual & ALL & distilbert-last-hidden-subword-first & -0.125 (0.682) & 0.496 (0.024) & -0.206 (0.576) & 0.079 (0.429) & 0.299 (0.224) & -0.713 (0.887) \\
+        contextual & ALL & distilbert-last-hidden-subword-avg & 0.014 (0.477) & 0.718 (0.002) & -1.268 (0.997) & -0.078 (0.560) & 0.449 (0.219) & 0.799 (0.078) \\
+        contextual & ALL & distilbert-2nd-last-layer-subword-first & -0.212 (0.793) & 0.299 (0.120) & -0.113 (0.546) & -0.082 (0.564) & 0.109 (0.424) & -0.693 (0.877) \\
+        contextual & ALL & distilbert-2nd-last-layer-subword-avg & -0.048 (0.576) & 0.459 (0.033) & -1.577 (1.000) & -0.118 (0.598) & 0.372 (0.271) & 0.701 (0.110) \\
+        contextual & ALL & distilbert-avg-all-hidden-subword-first & -0.193 (0.767) & 0.095 (0.357) & -0.078 (0.541) & -0.179 (0.638) & -0.019 (0.515) & -0.671 (0.861) \\
+        contextual & ALL & distilbert-avg-all-hidden-subword-avg & -0.165 (0.738) & 0.161 (0.267) & -0.972 (0.976) & -0.110 (0.591) & 0.507 (0.153) & 0.809 (0.079) \\
+        contextual & GT & distilbert-CLS & -0.207 (0.765) & 0.074 (0.398) & 0.176 (0.367) & -0.162 (0.620) & -0.811 (0.946) & 0.452 (0.226) \\
+        contextual & GT & distilbert-last-hidden-subword-first & 0.054 (0.426) & 0.703 (0.006) & 0.056 (0.457) & 0.135 (0.379) & 0.196 (0.352) & -0.882 (0.935) \\
+        contextual & GT & distilbert-last-hidden-subword-avg & 0.057 (0.422) & 0.851 (0.000) & 0.275 (0.299) & 0.134 (0.433) & 0.429 (0.249) & -0.925 (0.934) \\
+        contextual & GT & distilbert-2nd-last-layer-subword-first & 0.212 (0.235) & 0.304 (0.145) & 0.047 (0.464) & 0.062 (0.450) & -0.165 (0.627) & -0.806 (0.913) \\
+        contextual & GT & distilbert-2nd-last-layer-subword-avg & 0.053 (0.428) & 0.764 (0.002) & 0.128 (0.405) & 0.104 (0.427) & 0.371 (0.264) & -0.854 (0.920) \\
+        contextual & GT & distilbert-avg-all-hidden-subword-first & 0.150 (0.303) & 0.010 (0.488) & -0.210 (0.650) & 0.052 (0.458) & -0.479 (0.825) & -0.737 (0.892) \\
+        contextual & GT & distilbert-avg-all-hidden-subword-avg & 0.026 (0.466) & 0.519 (0.033) & -0.021 (0.516) & 0.119 (0.414) & 0.400 (0.229) & -0.691 (0.872) \\
+        contextual & HT & distilbert-CLS & 0.108 (0.352) & -0.122 (0.664) & 1.381 (0.002) & -0.165 (0.623) & -0.811 (0.946) & 0.651 (0.132) \\
+        contextual & HT & distilbert-last-hidden-subword-first & 0.136 (0.322) & 0.614 (0.014) & -0.206 (0.576) & 0.013 (0.490) & 0.196 (0.352) & -0.713 (0.887) \\
+        contextual & HT & distilbert-last-hidden-subword-avg & 0.192 (0.251) & 0.937 (0.000) & -1.268 (0.997) & -0.008 (0.506) & 0.429 (0.249) & 0.799 (0.078) \\
+        contextual & HT & distilbert-2nd-last-layer-subword-first & -0.025 (0.534) & 0.280 (0.166) & -0.113 (0.546) & -0.047 (0.528) & -0.165 (0.627) & -0.693 (0.877) \\
+        contextual & HT & distilbert-2nd-last-layer-subword-avg & 0.195 (0.253) & 0.745 (0.004) & -1.577 (1.000) & -0.035 (0.528) & 0.371 (0.264) & 0.701 (0.110) \\
+        contextual & HT & distilbert-avg-all-hidden-subword-first & -0.089 (0.620) & 0.016 (0.481) & -0.078 (0.541) & -0.086 (0.560) & -0.479 (0.825) & -0.671 (0.861) \\
+        contextual & HT & distilbert-avg-all-hidden-subword-avg & 0.033 (0.458) & 0.353 (0.110) & -0.972 (0.976) & -0.036 (0.531) & 0.400 (0.229) & 0.809 (0.079) \\
+        static & ALL & fasttext & 1.077 (0.000) & 0.738 (0.001) & 1.168 (0.007) & -0.231 (0.635) & -0.365 (0.723) & -0.682 (0.874) \\
+        static & ALL & distilbert-layer-0-subword-first & -0.235 (0.811) & -0.018 (0.528) & -0.070 (0.549) & -0.097 (0.575) & -0.036 (0.530) & -0.497 (0.747) \\
+        static & ALL & distilbert-layer-0-subword-avg & -0.136 (0.697) & 0.103 (0.347) & 0.074 (0.445) & 0.001 (0.491) & 0.603 (0.120) & 0.832 (0.082) \\
+        static & GT & fasttext & 1.236 (0.000) & 0.637 (0.012) & 0.404 (0.222) & 0.065 (0.449) & -0.543 (0.835) & -0.980 (0.958) \\
+        static & GT & distilbert-layer-0-subword-first & 0.146 (0.307) & -0.140 (0.687) & -0.335 (0.711) & 0.097 (0.426) & -0.449 (0.822) & -0.631 (0.857) \\
+        static & GT & distilbert-layer-0-subword-avg & 0.002 (0.495) & 0.321 (0.134) & -0.303 (0.722) & 0.226 (0.332) & 0.406 (0.218) & -0.291 (0.683) \\
+        static & HT & fasttext & 1.189 (0.000) & 0.847 (0.001) & 1.168 (0.007) & 0.022 (0.483) & -0.543 (0.835) & -0.682 (0.874) \\
+        static & HT & distilbert-layer-0-subword-first & -0.170 (0.719) & -0.132 (0.678) & -0.070 (0.549) & -0.081 (0.562) & -0.449 (0.822) & -0.497 (0.747) \\
+        static & HT & distilbert-layer-0-subword-avg & -0.000 (0.501) & 0.185 (0.262) & 0.074 (0.445) & 0.022 (0.483) & 0.406 (0.218) & 0.832 (0.082) \\
+        \bottomrule
+    \end{tabular}
+\end{sidewaystable}

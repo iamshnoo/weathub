@@ -1,0 +1,59 @@
+{
+    "targ1": {
+        "category": "MaleNames",
+        "examples": [
+            "Juan",
+            "Paulo",
+            "Michael",
+            "Kevin",
+            "Steban",
+            "Gregorio",
+            "Jefferson",
+            "Wiliam"
+        ]
+    },
+    "targ2": {
+        "category": "FemaleNames",
+        "examples": [
+            "Maria",
+            "Johana",
+            "Lisa",
+            "Sara",
+            "Diana",
+            "Katy",
+            "Ana",
+            "Dona"
+        ]
+    },
+    "attr1": {
+        "category": "Career",
+        "examples": [
+            "ejecutivo",
+            "gestion",
+            "profesional",
+            "corporacion",
+            "salario",
+            "oficina",
+            "negocio",
+            "carrera profesional"
+        ]
+    },
+    "attr2": {
+        "category": "Family",
+        "examples": [
+            "hogar",
+            "padres",
+            "mocosos",
+            "familia",
+            "primos",
+            "matrimonio",
+            "boda",
+            "parientes",
+            "flaquita",
+            "causabateria",
+            "viejita",
+            "bisa",
+            "cholita"
+        ]
+    }
+}

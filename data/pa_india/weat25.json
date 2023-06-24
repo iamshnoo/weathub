@@ -1,0 +1,40 @@
+{
+    "targ1": {
+        "category": "Hindu religion terms",
+        "examples": [
+            "ਭਗਵਾਨ",
+            "ਗੀਤਾ",
+            "ਬ੍ਰਾਹਮਣ",
+            "ਪੰਡਿਤ",
+            "ਮੰਦਰ",
+            "ਰਾਮ",
+            "ਵਰਤ"
+        ]
+    },
+    "targ2": {
+        "category": "Muslim religion terms",
+        "examples": [
+            "ਅੱਲ੍ਹਾ",
+            "ਕੁਰਾਨ",
+            "ਸ਼ੀਆ",
+            "ਸੁੰਨੀ",
+            "ਮਸਜਿਦ",
+            "ਮੁਹੰਮਦ",
+            "ਰੋਜ਼ਾ"
+        ]
+    },
+    "attr1": {
+        "category": "Hindu religion",
+        "examples": [
+            "ਹਿੰਦੂ",
+            "ਹਿੰਦੂਤਵ"
+        ]
+    },
+    "attr2": {
+        "category": "Muslim religion",
+        "examples": [
+            "ਮੁਸਲਮਾਨ",
+            "ਇਸਲਾਮ"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "ImmigrantTerms",
+        "examples": [
+            "bîyanî",
+            "bîyanî",
+            "bîyanî",
+            "koçer",
+            "penaber",
+            "koçber",
+            "koçber",
+            "ne-welatî",
+            "jicîkirin",
+            "bêbelge"
+        ]
+    },
+    "targ2": {
+        "category": "Non-immigrantTerms",
+        "examples": [
+            "dêman",
+            "hembajarî",
+            "herêmî",
+            "rûniştevan",
+            "zayî",
+            "xwecihî",
+            "rûniştevan",
+            "ava kirin",
+            "kevneşop",
+            "rûniştevan"
+        ]
+    },
+    "attr1": {
+        "category": "DisrespectfulWords",
+        "examples": [
+            "qelp",
+            "negîşt",
+            "bêkêmasî",
+            "emelxirab",
+            "belengaz",
+            "bêber",
+            "çavteng",
+            "oportunîst",
+            "neqanûnî",
+            "nexwestî"
+        ]
+    },
+    "attr2": {
+        "category": "RespectfulWords2",
+        "examples": [
+            "vemiştî",
+            "Xebatkar",
+            "berxwedêr",
+            "çavvekkirî",
+            "cesûr",
+            "xîretwar",
+            "dilovan",
+            "talented",
+            "pêçêbûyî",
+            "terxankirî"
+        ]
+    }
+}

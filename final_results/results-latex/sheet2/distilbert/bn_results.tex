@@ -1,0 +1,22 @@
+\begin{sidewaystable}[htb]
+    \centering
+    \caption{sheet2 distilbert bn results}
+    \label{appendix_tab:sheet2_distilbert_bn_results}
+    \small
+    \begin{tabular}{@{}cccccccc@{}}
+        \toprule
+        Type & DataSource & Method & weat11 & weat12 & weat13 & weat14 & weat15 \\
+        \midrule
+        contextual & NEW\_HT & distilbert-CLS & 0.562 (0.115) & 0.626 (0.093) & 0.340 (0.235) & 0.444 (0.166) & 0.669 (0.068) \\
+        contextual & NEW\_HT & distilbert-last-hidden-subword-first & -0.268 (0.719) & 0.011 (0.491) & 0.178 (0.369) & 0.325 (0.239) & 1.139 (0.003) \\
+        contextual & NEW\_HT & distilbert-last-hidden-subword-avg & -0.026 (0.521) & 0.798 (0.036) & 0.178 (0.356) & -0.435 (0.778) & 1.110 (0.004) \\
+        contextual & NEW\_HT & distilbert-2nd-last-layer-subword-first & -0.331 (0.764) & -0.154 (0.630) & 0.148 (0.393) & 0.260 (0.293) & 0.930 (0.017) \\
+        contextual & NEW\_HT & distilbert-2nd-last-layer-subword-avg & -0.175 (0.647) & 0.677 (0.069) & 0.196 (0.346) & -0.383 (0.778) & 0.066 (0.445) \\
+        contextual & NEW\_HT & distilbert-avg-all-hidden-subword-first & -0.036 (0.530) & 0.444 (0.174) & 0.556 (0.135) & -0.072 (0.560) & 0.926 (0.013) \\
+        contextual & NEW\_HT & distilbert-avg-all-hidden-subword-avg & 0.158 (0.381) & 0.895 (0.018) & 0.306 (0.282) & -0.576 (0.837) & 0.809 (0.038) \\
+        static & NEW\_HT & fasttext & 0.015 (0.487) & 0.226 (0.313) & 0.257 (0.287) & 1.034 (0.008) & 0.973 (0.012) \\
+        static & NEW\_HT & distilbert-layer-0-subword-first & 0.203 (0.330) & 0.679 (0.067) & 0.674 (0.050) & -0.215 (0.669) & 0.945 (0.011) \\
+        static & NEW\_HT & distilbert-layer-0-subword-avg & 0.336 (0.261) & 0.890 (0.017) & 0.477 (0.174) & -0.619 (0.871) & 0.916 (0.019) \\
+        \bottomrule
+    \end{tabular}
+\end{sidewaystable}

@@ -1,0 +1,70 @@
+{
+    "targ1": {
+        "category": "OffensiveWords",
+        "examples": [
+            "idiota",
+            "huevon",
+            "idiota",
+            "retrasado",
+            "monse",
+            "huevon",
+            "imbecil",
+            "estupido",
+            "bagre",
+            "pendejo"
+        ]
+    },
+    "targ2": {
+        "category": "RespectfulWords",
+        "examples": [
+            "bueno",
+            "generoso",
+            "pilas",
+            "chevere",
+            "real",
+            "confiable",
+            "humilde",
+            "tolerante",
+            "leal",
+            "educado"
+        ]
+    },
+    "attr1": {
+        "category": "FemaleTerms",
+        "examples": [
+            "femenino",
+            "mujer",
+            "chica",
+            "hermana",
+            "ella",
+            "su",
+            "suyo",
+            "hija",
+            "madre",
+            "tia",
+            "abuela",
+            "cholita",
+            "desgraciada"
+        ]
+    },
+    "attr2": {
+        "category": "MaleTerms",
+        "examples": [
+            "masculino",
+            "hombre",
+            "chico",
+            "hermano",
+            "el",
+            "a el",
+            "su",
+            "hijo",
+            "padre",
+            "tio",
+            "abuelo",
+            "flaco",
+            "chico",
+            "papi",
+            "padrino"
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "targ1": {
+        "category": "Science",
+        "examples": [
+            "science",
+            "technologie",
+            "la physique",
+            "chimie",
+            "Einstein",
+            "NASA",
+            "expérience",
+            "astronomie"
+        ]
+    },
+    "targ2": {
+        "category": "Arts",
+        "examples": [
+            "poésie",
+            "art",
+            "danse",
+            "littérature",
+            "roman",
+            "symphonie",
+            "drame",
+            "sculpture",
+            "Shakespeare"
+        ]
+    },
+    "attr1": {
+        "category": "MaleTerms",
+        "examples": [
+            "homme",
+            "homme",
+            "garçon",
+            "frère",
+            "il",
+            "lui",
+            "son",
+            "fils",
+            "père",
+            "oncle",
+            "grand-père"
+        ]
+    },
+    "attr2": {
+        "category": "FemaleTerms",
+        "examples": [
+            "femme",
+            "femme",
+            "fille",
+            "sœur",
+            "elle",
+            "elle",
+            "son",
+            "fille",
+            "mère",
+            "tante",
+            "grand-mère"
+        ]
+    }
+}

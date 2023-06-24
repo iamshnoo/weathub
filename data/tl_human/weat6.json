@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "MaleNames",
+        "examples": [
+            "Jose",
+            "Mario",
+            "Roberto",
+            "Juan",
+            "Marcelo",
+            "Luis",
+            "Antonio",
+            "Joselito"
+        ]
+    },
+    "targ2": {
+        "category": "FemaleNames",
+        "examples": [
+            "Maria",
+            "Bianca",
+            "Athena",
+            "Trisha",
+            "Patricia",
+            "Angela",
+            "Danica",
+            "Marie"
+        ]
+    },
+    "attr1": {
+        "category": "Career",
+        "examples": [
+            "ehekutibo",
+            "pamamahala",
+            "propesyonal",
+            "korporasyon",
+            "suweldo",
+            "opisina",
+            "negosyo",
+            "trabaho"
+        ]
+    },
+    "attr2": {
+        "category": "Family",
+        "examples": [
+            "tahanan",
+            "mga magulang",
+            "mga bata",
+            "pamilya",
+            "pinsan",
+            "kasal",
+            "kasalan",
+            "kapamilya"
+        ]
+    }
+}
