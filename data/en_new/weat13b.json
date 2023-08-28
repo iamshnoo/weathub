@@ -1,0 +1,92 @@
+{
+    "targ1": {
+        "category": "LGBTQ+Words",
+        "examples": [
+            "Gay",
+            "Lesbian",
+            "Bisexual",
+            "Pansexual",
+            "Queer",
+            "Transgender",
+            "Nonbinary",
+            "Intersex",
+            "Drag",
+            "Asexual"
+        ]
+    },
+    "targ2": {
+        "category": "StraightWords",
+        "examples": [
+            "Heterosexual",
+            "Straight",
+            "Cisgender",
+            "Heteronormative",
+            "Masculine",
+            "Feminine",
+            "Gender Binary",
+            "Mainstream",
+            "Normative",
+            "Monosexual"
+        ]
+    },
+    "attr1": {
+        "category": "Unpleasant",
+        "examples": [
+            "abuse",
+            "crash",
+            "filth",
+            "murder",
+            "sickness",
+            "accident",
+            "death",
+            "grief",
+            "poison",
+            "stink",
+            "assault",
+            "disaster",
+            "hatred",
+            "pollute",
+            "tragedy",
+            "divorce",
+            "jail",
+            "poverty",
+            "ugly",
+            "cancer",
+            "kill",
+            "rotten",
+            "vomit",
+            "agony",
+            "prison"
+        ]
+    },
+    "attr2": {
+        "category": "Pleasant",
+        "examples": [
+            "caress",
+            "freedom",
+            "health",
+            "love",
+            "peace",
+            "cheer",
+            "friend",
+            "heaven",
+            "loyal",
+            "pleasure",
+            "diamond",
+            "gentle",
+            "honest",
+            "lucky",
+            "rainbow",
+            "diploma",
+            "gift",
+            "honor",
+            "miracle",
+            "sunrise",
+            "family",
+            "happy",
+            "laughter",
+            "paradise",
+            "vacation"
+        ]
+    }
+}

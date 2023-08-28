@@ -41,6 +41,10 @@ The code is contained in the ```src``` directory.
   run_weat.py```. This is the main file to be run to reproduce the results.
 - ```compare_embeddings.py``` is the file where we perform the bias sensitivity
   analysis mentioned in our paper.
+- ```load_valence.py``` creates the valence experiments mentioned by 2 out of 3
+  reviewers and ```valence_weat.py``` runs them. Results are found in
+  ```final_results/valence```. Currently, all results for M5 (main paper results
+  ) are included.
 
 ## Results
 
