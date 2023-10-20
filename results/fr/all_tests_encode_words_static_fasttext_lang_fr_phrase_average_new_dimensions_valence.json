@@ -1,0 +1,22 @@
+[
+    {
+        "weat_effect_size": "0.087",
+        "weat_p_value": "0.423",
+        "weat_effect_size_confidence_interval_lower": "0.081",
+        "weat_effect_size_confidence_interval_upper": "0.096",
+        "weat_test_statistic": "0.002",
+        "weat_test_statistic_confidence_interval_lowerr": "0.002",
+        "weat_test_statistic_confidence_interval_upper": "0.002",
+        "experiment_id": "weat12b_lang_fr_encode_words_static_fasttext_lang_fr_phrase_average_new_dimensions_valence_seed_42_partitions_100000_normalized"
+    },
+    {
+        "weat_effect_size": "0.422",
+        "weat_p_value": "0.179",
+        "weat_effect_size_confidence_interval_lower": "0.403",
+        "weat_effect_size_confidence_interval_upper": "0.415",
+        "weat_test_statistic": "0.011",
+        "weat_test_statistic_confidence_interval_lowerr": "0.010",
+        "weat_test_statistic_confidence_interval_upper": "0.011",
+        "experiment_id": "weat13b_lang_fr_encode_words_static_fasttext_lang_fr_phrase_average_new_dimensions_valence_seed_42_partitions_100000_normalized"
+    }
+]

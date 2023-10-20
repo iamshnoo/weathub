@@ -1,0 +1,2 @@
+Type,DataSource,Method,weat12b,weat13b
+static,NEW_HT,fasttext,0.611 (0.090),-0.160 (0.636)

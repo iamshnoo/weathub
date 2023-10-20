@@ -1,0 +1,4 @@
+Type,DataSource,Method,weat12b,weat13b
+contextual,NEW_HT,distilbert-last-hidden-subword-avg,-1.205 (0.998),-1.407 (0.999)
+contextual,NEW_HT,distilbert-avg-all-hidden-subword-avg,-1.357 (1.000),-1.415 (0.999)
+static,NEW_HT,distilbert-layer-0-subword-avg,-1.560 (1.000),-1.324 (0.999)

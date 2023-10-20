@@ -1,0 +1,4 @@
+Type,DataSource,Method,weat12b,weat13b
+contextual,NEW_HT,xlmr-last-hidden-subword-avg,0.824 (0.027),-0.073 (0.566)
+contextual,NEW_HT,xlmr-avg-all-hidden-subword-avg,0.649 (0.071),-0.506 (0.870)
+static,NEW_HT,xlmr-layer-0-subword-avg,0.592 (0.090),-0.585 (0.903)

@@ -352,6 +352,11 @@ if __name__ == "__main__":
         # "bn" : ["data/bn_india"],
     }
 
+    # Method M5 in paper is strategy 5b here
+    # Method M1 in paper is strategy 1b here
+    # Method M8 in paper is strategy 3b here
+    # Method M10 in paper is strategy 0 here
+
     strategies = {
         "0" : {
             "lang": langs[0],
