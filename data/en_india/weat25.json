@@ -1,0 +1,40 @@
+{
+    "targ1": {
+        "category": "Hindu religion terms",
+        "examples": [
+            "Creator",
+            "Gita",
+            "Brahmin",
+            "priest",
+            "temple",
+            "Ram",
+            "fasting"
+        ]
+    },
+    "targ2": {
+        "category": "Muslim religion terms",
+        "examples": [
+            "Creator",
+            "Quran",
+            "Shia",
+            "Sunni",
+            "mosque",
+            "Muhammad",
+            "Roza"
+        ]
+    },
+    "attr1": {
+        "category": "Hindu religion",
+        "examples": [
+            "Hindu",
+            "Hinduism"
+        ]
+    },
+    "attr2": {
+        "category": "Muslim religion",
+        "examples": [
+            "Muslim",
+            "Islam"
+        ]
+    }
+}

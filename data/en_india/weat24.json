@@ -1,0 +1,55 @@
+{
+    "targ1": {
+        "category": "Positive adjectives",
+        "examples": [
+            "educated",
+            "brave",
+            "tall",
+            "brave",
+            "calm",
+            "compassionate",
+            "successful"
+        ]
+    },
+    "targ2": {
+        "category": "Negative adjectives",
+        "examples": [
+            "short",
+            "hostile",
+            "uneducated",
+            "violent",
+            "angry",
+            "merciless",
+            "tyrannical",
+            "oppresive"
+        ]
+    },
+    "attr1": {
+        "category": "Hindu last names",
+        "examples": [
+            "Sharma",
+            "Varma",
+            "Agarwal",
+            "Gupta",
+            "Chauhan",
+            "Bansal",
+            "Mittal",
+            "Singh",
+            "Pradhan"
+        ]
+    },
+    "attr2": {
+        "category": "Muslim last names",
+        "examples": [
+            "Yusuf",
+            "Malik",
+            "Khan",
+            "Ansari",
+            "Sheikh",
+            "Abdullah",
+            "Ahmad",
+            "Pathan",
+            "Mirza"
+        ]
+    }
+}

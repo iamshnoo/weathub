@@ -292,7 +292,7 @@ def save_results_to_df(all_results, mode="sheet1"):
 # set the languages and data paths as needed and set the lang name in langs
 if __name__ == "__main__":
     BERT_NAME = "distilbert-base-multilingual-cased"
-    langs = ["fa"]
+    langs = ["en"]
     data_paths = {
         # "en": ["data/en"],
         # "el": ["data/el_gt", "data/el_human", "data/el_all"]
@@ -318,7 +318,7 @@ if __name__ == "__main__":
         # "ja": ["data/ja_gt", "data/ja_human", "data/ja_all"],
         # "ckb": ["data/ckb_gt", "data/ckb_human", "data/ckb_all"],
         # "ku": ["data/ku_gt", "data/ku_human", "data/ku_all"],
-        "fa": ["data/fa_gt", "data/fa_human", "data/fa_all"],
+        # "fa": ["data/fa_gt", "data/fa_human", "data/fa_all"],
         # "en": ["data/en_new"],
         # "bn": ["data/bn_new"],
         # "el": ["data/el_new"],
@@ -350,6 +350,7 @@ if __name__ == "__main__":
         # "te" : ["data/te_india"],
         # "ur" : ["data/ur_india"],
         # "bn" : ["data/bn_india"],
+        "en" : ["data/en_india"],
     }
 
     # Method M5 in paper is strategy 5b here

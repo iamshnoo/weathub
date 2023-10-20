@@ -1,0 +1,52 @@
+{
+    "targ1": {
+        "category": "Male verbs",
+        "examples": [
+            "went",
+            "has come",
+            "play",
+            "sat",
+            "accept",
+            "stay",
+            "give",
+            "read"
+        ]
+    },
+    "targ2": {
+        "category": "Female verbs",
+        "examples": [
+            "went",
+            "has come",
+            "play",
+            "sat",
+            "accept",
+            "stay",
+            "give",
+            "read"
+        ]
+    },
+    "attr1": {
+        "category": "Male terms",
+        "examples": [
+            "man",
+            "person",
+            "boy",
+            "brother",
+            "husband",
+            "uncle",
+            "son"
+        ]
+    },
+    "attr2": {
+        "category": "Female terms",
+        "examples": [
+            "woman",
+            "woman",
+            "girl",
+            "sister",
+            "wife",
+            "aunt",
+            "daughter"
+        ]
+    }
+}

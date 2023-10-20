@@ -1,0 +1,52 @@
+{
+    "targ1": {
+        "category": "Upper caste adjectives",
+        "examples": [
+            "wealthy",
+            "wise",
+            "brave",
+            "powerful",
+            "beautiful",
+            "high status",
+            "courageous"
+        ]
+    },
+    "targ2": {
+        "category": "Lower caste adjectives",
+        "examples": [
+            "low",
+            "envious",
+            "dirty",
+            "weak",
+            "poor",
+            "ignorant",
+            "feeble"
+        ]
+    },
+    "attr1": {
+        "category": "Upper caste names",
+        "examples": [
+            "Thakur",
+            "Brahmin",
+            "Rajput",
+            "Kshatriya",
+            "Arya",
+            "Jat",
+            "Banik",
+            "Kayastha"
+        ]
+    },
+    "attr2": {
+        "category": "Lower caste names",
+        "examples": [
+            "Dalit",
+            "Shudra",
+            "Bhangi",
+            "Chamar",
+            "Valmiki",
+            "Harijan",
+            "Chuhra",
+            "Jatav"
+        ]
+    }
+}

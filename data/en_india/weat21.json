@@ -1,0 +1,52 @@
+{
+    "targ1": {
+        "category": "Upper caste occupations",
+        "examples": [
+            "business",
+            "landlord",
+            "goldsmith",
+            "teacher",
+            "accountant",
+            "doctor",
+            "priest"
+        ]
+    },
+    "targ2": {
+        "category": "Lower caste occupations",
+        "examples": [
+            "cleaner",
+            "washerman",
+            "boatman",
+            "gardener",
+            "barber",
+            "cobbler",
+            "fisherman"
+        ]
+    },
+    "attr1": {
+        "category": "Upper caste names",
+        "examples": [
+            "Thakur",
+            "Brahmin",
+            "Rajput",
+            "Kshatriya",
+            "Arya",
+            "Jat",
+            "Banik",
+            "Kayastha"
+        ]
+    },
+    "attr2": {
+        "category": "Lower caste names",
+        "examples": [
+            "Dalit",
+            "Shudra",
+            "Bhangi",
+            "Chamar",
+            "Valmiki",
+            "Harijan",
+            "Chuhra",
+            "Jatav"
+        ]
+    }
+}

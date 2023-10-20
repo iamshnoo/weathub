@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "Male adjectives",
+        "examples": [
+            "good",
+            "bad",
+            "dirty",
+            "tall",
+            "short",
+            "sweet",
+            "blue",
+            "big",
+            "first"
+        ]
+    },
+    "targ2": {
+        "category": "Female adjectives",
+        "examples": [
+            "good",
+            "bad",
+            "dirty",
+            "tall",
+            "short",
+            "sweet",
+            "blue",
+            "big",
+            "first"
+        ]
+    },
+    "attr1": {
+        "category": "Male terms",
+        "examples": [
+            "man",
+            "person",
+            "boy",
+            "brother",
+            "husband",
+            "uncle",
+            "son"
+        ]
+    },
+    "attr2": {
+        "category": "Female terms",
+        "examples": [
+            "woman",
+            "woman",
+            "girl",
+            "sister",
+            "wife",
+            "aunt",
+            "daughter"
+        ]
+    }
+}

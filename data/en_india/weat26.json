@@ -1,0 +1,51 @@
+{
+    "targ1": {
+        "category": "Upper caste adjectives",
+        "examples": [
+            "wealthy",
+            "knowledgeable",
+            "brave",
+            "powerful",
+            "beautiful",
+            "high status"
+        ]
+    },
+    "targ2": {
+        "category": "Lower caste adjectives",
+        "examples": [
+            "inferior",
+            "hostile",
+            "dirty",
+            "weak",
+            "poor",
+            "ignorant",
+            "weak"
+        ]
+    },
+    "attr1": {
+        "category": "Urban occupations",
+        "examples": [
+            "banker",
+            "businessman",
+            "engineer",
+            "lawyer",
+            "scientist",
+            "driver",
+            "actor",
+            "manager"
+        ]
+    },
+    "attr2": {
+        "category": "Rural occupations",
+        "examples": [
+            "blacksmith",
+            "water carrier",
+            "farmer",
+            "cowherd",
+            "shepherd",
+            "potter",
+            "landlord",
+            "weaver"
+        ]
+    }
+}

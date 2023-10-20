@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "category": "Male entities",
+        "examples": [
+            "pajama",
+            "water pot",
+            "punjabi attire",
+            "flower",
+            "cloth",
+            "wheel",
+            "machine",
+            "doll",
+            "lock"
+        ]
+    },
+    "targ2": {
+        "category": "Female entities",
+        "examples": [
+            "wardrobe",
+            "sheet",
+            "dress",
+            "electricity",
+            "intelligence",
+            "photo",
+            "clock",
+            "rakhi",
+            "shirt"
+        ]
+    },
+    "attr1": {
+        "category": "Male terms",
+        "examples": [
+            "man",
+            "person",
+            "boy",
+            "brother",
+            "husband",
+            "uncle",
+            "son"
+        ]
+    },
+    "attr2": {
+        "category": "Female terms",
+        "examples": [
+            "woman",
+            "woman",
+            "girl",
+            "sister",
+            "wife",
+            "aunt",
+            "daughter"
+        ]
+    }
+}

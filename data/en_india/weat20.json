@@ -1,0 +1,52 @@
+{
+    "targ1": {
+        "category": "Male titles",
+        "examples": [
+            "teacher",
+            "disciple",
+            "scholar",
+            "monk",
+            "poet",
+            "student",
+            "chairman",
+            "sir"
+        ]
+    },
+    "targ2": {
+        "category": "Female titles",
+        "examples": [
+            "teacher",
+            "disciple",
+            "scholar",
+            "monk",
+            "poet",
+            "student",
+            "chairman",
+            "madam"
+        ]
+    },
+    "attr1": {
+        "category": "Male terms",
+        "examples": [
+            "man",
+            "person",
+            "boy",
+            "brother",
+            "husband",
+            "uncle",
+            "son"
+        ]
+    },
+    "attr2": {
+        "category": "Female terms",
+        "examples": [
+            "woman",
+            "woman",
+            "girl",
+            "sister",
+            "wife",
+            "aunt",
+            "daughter"
+        ]
+    }
+}
