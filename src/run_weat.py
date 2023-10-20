@@ -291,7 +291,7 @@ def save_results_to_df(all_results, mode="sheet1"):
 # encoding_utils.py
 # set the languages and data paths as needed and set the lang name in langs
 if __name__ == "__main__":
-    BERT_NAME = "distilbert-base-multilingual-cased"
+    BERT_NAME = "ai4bharat/indic-bert"
     langs = ["en"]
     data_paths = {
         # "en": ["data/en"],

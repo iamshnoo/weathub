@@ -36,28 +36,29 @@ set_random_seed()
 # ON LINE 62, SET THE MODEL NAME TO ONE OF THE FOLLOWING
 # BASED ON WHAT YOU SET IN ```run_weat.py````
 
-# urduhack/roberta-urdu-small
-# DeepPavlov/rubert-base-cased
-# dbmdz/bert-base-turkish-uncased
-# dbmdz/bert-base-italian-uncased
-# monsoon-nlp/bert-base-thai
-# asafaya/bert-base-arabic
-# nlpaueb/bert-base-greek-uncased-v1
-# bert-base-chinese
-# jcblaise/roberta-tagalog-base
-# trituenhantaoio/bert-base-vietnamese-uncased
-# l3cube-pune/bengali-bert
-# l3cube-pune/hindi-bert-v2
-# l3cube-pune/telugu-bert
-# l3cube-pune/marathi-bert-v2
-# l3cube-pune/punjabi-bert
-# distilbert-base-multilingual-cased
-# xlm-roberta-base
+# urduhack/roberta-urdu-small (Urdu monobert)
+# DeepPavlov/rubert-base-cased (Russian monobert)
+# dbmdz/bert-base-turkish-uncased (Turkish monobert)
+# dbmdz/bert-base-italian-uncased (Italian monobert)
+# monsoon-nlp/bert-base-thai (Thai monobert)
+# asafaya/bert-base-arabic (Arabic monobert)
+# nlpaueb/bert-base-greek-uncased-v1 (Greek monobert)
+# bert-base-chinese (Chinese monobert)
+# jcblaise/roberta-tagalog-base (Tagalog monobert)
+# trituenhantaoio/bert-base-vietnamese-uncased (Vietnamese monobert)
+# l3cube-pune/bengali-bert (Bengali monobert)
+# l3cube-pune/hindi-bert-v2 (Hindi monobert)
+# l3cube-pune/telugu-bert (Telugu monobert)
+# l3cube-pune/marathi-bert-v2 (Marathi monobert)
+# l3cube-pune/punjabi-bert (Punjabi monobert)
+# ai4bharat/indic-bert (Indic multilingual bert)
+# distilbert-base-multilingual-cased (Multilingual distilbert)
+# xlm-roberta-base (Multilingual xlm-roberta)
 
 ## MODELS USED ##
 
 @lru_cache(maxsize=128)
-def load_hf_tokenizer_model(name="distilbert-base-multilingual-cased"):
+def load_hf_tokenizer_model(name="ai4bharat/indic-bert"):
     # Load tokenizer and model once
     tokenizer = AutoTokenizer.from_pretrained(name)
     model = AutoModel.from_pretrained(name, output_hidden_states=True)
