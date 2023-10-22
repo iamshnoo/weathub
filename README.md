@@ -1,6 +1,6 @@
 # Global Voices, Local Biases: Socio-Cultural Prejudices across Languages
 
-This repository contains anonymized code for our submission to EMNLP 2023.
+This repository contains code for our submission to EMNLP 2023.
 
 ## Requirements - External libraries
 
