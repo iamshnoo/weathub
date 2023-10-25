@@ -1,6 +1,12 @@
 # Global Voices, Local Biases: Socio-Cultural Prejudices across Languages
 
-This repository contains code for our submission to EMNLP 2023.
+This repository contains code for our submission to EMNLP 2023. The paper will
+be presented at the main conference in Singapore.
+
+The dataset used in this paper is available in this repository and also on
+HuggingFace at this [link](https://huggingface.co/datasets/iamshnoo/WEATHub).
+
+![weathub-dalle-img](assets/dalle3_weathub.png)
 
 ## Requirements - External libraries
 
