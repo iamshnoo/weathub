@@ -6,7 +6,9 @@ be presented at the main conference in Singapore.
 The dataset used in this paper is available in this repository and also on
 HuggingFace at this [link](https://huggingface.co/datasets/iamshnoo/WEATHub).
 
-![weathub-dalle-img](assets/dalle3_weathub.png)
+<p align="center">
+  <img src="assets/dalle3_weathub.png" width="250" height="250">
+</p>
 
 ## Requirements - External libraries
 
