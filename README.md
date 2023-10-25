@@ -1,10 +1,10 @@
 # Global Voices, Local Biases: Socio-Cultural Prejudices across Languages
 
-This repository contains code for our submission to EMNLP 2023. The paper will
-be presented at the main conference in Singapore.
+This repository contains code for our paper accepted at EMNLP 2023.
 
-The dataset used in this paper is available in this repository and also on
+The dataset developed in this paper is available in this repository and also on
 HuggingFace at this [link](https://huggingface.co/datasets/iamshnoo/WEATHub).
+Refer to the HuggingFace README for more details on the dataset format for the hub.
 
 <p align="center">
   <img src="assets/dalle3_weathub.png" width="250" height="250">
@@ -30,6 +30,49 @@ scikit-learn
 scipy
 ```
 
+## Minimal example
+
+Refer to ```src/hf_demo.py``` file for a minimal example of how to use the dataset
+from huggingface.
+
+```python
+from datasets import load_dataset
+from weat import WEAT
+from encoding_utils import encode_words
+
+dataset = load_dataset("iamshnoo/WEATHub")
+
+example = dataset["original_weat"][0]
+
+target_set_1 = example["targ1.examples"]
+target_set_2 = example["targ2.examples"]
+attribute_set_1 = example["attr1.examples"]
+attribute_set_2 = example["attr2.examples"]
+
+# method M5 from main paper, using DistilmBERT embeddings
+args = {
+    "lang": example["language"],
+    "embedding_type": "contextual",
+    "encoding_method": "4",
+    "phrase_strategy": "average",
+    "subword_strategy": "average",
+}
+
+weat = WEAT(
+    encode_function=encode_words,
+    target_set_1=target_set_1,
+    target_set_2=target_set_2,
+    attribute_set_1=attribute_set_1,
+    attribute_set_2=attribute_set_2,
+    num_partitions=100000,
+    normalize_test_statistic=True,
+    encode_args=args,
+)
+
+print("Effect size : ", weat.effect_size)
+print("p value : ", weat.p_value)
+```
+
 ## Reproduction steps
 
 The code is contained in the ```src``` directory.
@@ -51,8 +94,7 @@ The code is contained in the ```src``` directory.
   analysis mentioned in our paper.
 - ```load_valence.py``` creates the valence experiments mentioned by 2 out of 3
   reviewers and ```valence_weat.py``` runs them. Results are found in
-  ```final_results/valence```. Currently, all results for M5 (main paper results
-  ) are included.
+  ```final_results/valence```.
 
 ## Results
 
@@ -102,6 +144,7 @@ The main structure of the repository is as follows :
     ├── __init__.py
     ├── compare_embeddings.py
     ├── encoding_utils.py
+    ├── hf_demo.py
     ├── load_annotations.py
     ├── run_weat.py
     ├── secret.txt

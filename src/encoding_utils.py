@@ -13,7 +13,8 @@ import random
 import openai
 
 # read api key from secret file
-openai.api_key = open("secret.txt", "r").readline().strip()
+# uncomment the following line to use openai ada
+# openai.api_key = open("secret.txt", "r").readline().strip()
 
 logging.getLogger("transformers").setLevel(logging.ERROR)
 
@@ -58,7 +59,7 @@ set_random_seed()
 ## MODELS USED ##
 
 @lru_cache(maxsize=128)
-def load_hf_tokenizer_model(name="ai4bharat/indic-bert"):
+def load_hf_tokenizer_model(name="distilbert-base-multilingual-cased"):
     # Load tokenizer and model once
     tokenizer = AutoTokenizer.from_pretrained(name)
     model = AutoModel.from_pretrained(name, output_hidden_states=True)
