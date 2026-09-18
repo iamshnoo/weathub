@@ -1,5 +1,9 @@
 # Global Voices, Local Biases: Socio-Cultural Prejudices across Languages
 
+Anjishnu Mukherjee*, Chahat Raj*, Ziwei Zhu, Antonios Anastasopoulos · EMNLP ’23 (Main)
+
+[Paper](https://aclanthology.org/2023.emnlp-main.981.pdf) · [Research overview and publications](https://iamshnoo.github.io/#global-voices)
+
 This repository contains code for our paper accepted at EMNLP 2023.
 
 The dataset developed in this paper is available in this repository and also on
